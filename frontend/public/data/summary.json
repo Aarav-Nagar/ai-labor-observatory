@@ -1,0 +1,1010 @@
+{
+  "title": "AI Labor Observatory",
+  "generated_at": "2026-07-24T15:32:05.015763+00:00",
+  "releases": {
+    "previous": "O*NET 29.3 (May 2025)",
+    "current": "O*NET 30.3 (May 2026)",
+    "bls_oews": "May 2025"
+  },
+  "coverage": {
+    "onet_occupations": 798,
+    "wage_model_occupations": 120,
+    "states": 9,
+    "featured_geographic_occupations": 5,
+    "requested_occupations_missing_bls_cache": 3
+  },
+  "headline_metrics": {
+    "highest_ai_intensity": 9.0,
+    "occupations_with_ai_signal": 10,
+    "median_ai_intensity": 0.0,
+    "wage_model_r_squared": 0.669
+  },
+  "wage_model": {
+    "observations": 120,
+    "coefficient": -0.0025446491387074513,
+    "standard_error": 0.02049994356768171,
+    "p_value": 0.9012126873359674,
+    "r_squared": 0.6687612913759761,
+    "interpretation": "A 10-point higher AI-intensity score is associated with -2.5% different median annual wages, conditional on bachelor's-plus share, job zone, and major occupation group. This is a descriptive association, not a causal estimate."
+  },
+  "top_occupations": [
+    {
+      "soc_code": "151221",
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0,
+      "ai_skill_share": 13.41,
+      "annual_median_wage": 140300.0,
+      "employment": 37200.0,
+      "bachelors_plus_share": 91.65,
+      "job_zone": 5.0,
+      "signal_occupation_titles": "Computer and Information Research Scientists"
+    },
+    {
+      "soc_code": "152051",
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88,
+      "ai_skill_share": 16.79,
+      "annual_median_wage": 120230.0,
+      "employment": 262440.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Data Scientists"
+    },
+    {
+      "soc_code": "132054",
+      "occupation_title": "Financial Risk Specialists",
+      "ai_intensity": 3.85,
+      "ai_skill_share": 7.37,
+      "annual_median_wage": 117330.0,
+      "employment": 63850.0,
+      "bachelors_plus_share": null,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Financial Risk Specialists"
+    },
+    {
+      "soc_code": "333021",
+      "occupation_title": "Detectives and Criminal Investigators",
+      "ai_intensity": 3.77,
+      "ai_skill_share": 12.26,
+      "annual_median_wage": 93790.0,
+      "employment": 114430.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 3.0,
+      "signal_occupation_titles": "Intelligence Analysts"
+    },
+    {
+      "soc_code": "173025",
+      "occupation_title": "Environmental Engineering Technologists and Technicians",
+      "ai_intensity": 3.57,
+      "ai_skill_share": 8.7,
+      "annual_median_wage": 59920.0,
+      "employment": 12190.0,
+      "bachelors_plus_share": 72.93,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Environmental Engineering Technologists and Technicians"
+    },
+    {
+      "soc_code": "172112",
+      "occupation_title": "Industrial Engineers",
+      "ai_intensity": 2.96,
+      "ai_skill_share": 9.44,
+      "annual_median_wage": 102440.0,
+      "employment": 365740.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Industrial Engineers"
+    },
+    {
+      "soc_code": "151252",
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81,
+      "ai_skill_share": 5.12,
+      "annual_median_wage": 135980.0,
+      "employment": 1687890.0,
+      "bachelors_plus_share": 90.13,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Software Developers"
+    },
+    {
+      "soc_code": "132051",
+      "occupation_title": "Financial and Investment Analysts",
+      "ai_intensity": 2.57,
+      "ai_skill_share": 6.11,
+      "annual_median_wage": 102740.0,
+      "employment": 361980.0,
+      "bachelors_plus_share": null,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Financial and Investment Analysts"
+    },
+    {
+      "soc_code": "172031",
+      "occupation_title": "Bioengineers and Biomedical Engineers",
+      "ai_intensity": 2.12,
+      "ai_skill_share": 5.22,
+      "annual_median_wage": 109370.0,
+      "employment": 23480.0,
+      "bachelors_plus_share": 95.65,
+      "job_zone": 4.0,
+      "signal_occupation_titles": "Bioengineers and Biomedical Engineers"
+    },
+    {
+      "soc_code": "173026",
+      "occupation_title": "Industrial Engineering Technologists and Technicians",
+      "ai_intensity": 1.49,
+      "ai_skill_share": 3.7,
+      "annual_median_wage": 66120.0,
+      "employment": 75570.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 3.5,
+      "signal_occupation_titles": "Industrial Engineering Technologists and Technicians"
+    },
+    {
+      "soc_code": "111011",
+      "occupation_title": "Chief Executives",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 5.36,
+      "annual_median_wage": 213990.0,
+      "employment": 204350.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 5.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "111031",
+      "occupation_title": "Legislators",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 6.25,
+      "annual_median_wage": null,
+      "employment": null,
+      "bachelors_plus_share": null,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "111021",
+      "occupation_title": "General and Operations Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 4.26,
+      "annual_median_wage": 105770.0,
+      "employment": 3503020.0,
+      "bachelors_plus_share": 27.59,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "112021",
+      "occupation_title": "Marketing Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 5.19,
+      "annual_median_wage": 166790.0,
+      "employment": 395240.0,
+      "bachelors_plus_share": 90.64,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "112011",
+      "occupation_title": "Advertising and Promotions Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 5.56,
+      "annual_median_wage": 133660.0,
+      "employment": 21470.0,
+      "bachelors_plus_share": 68.31,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "113111",
+      "occupation_title": "Compensation and Benefits Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 2.35,
+      "annual_median_wage": 149230.0,
+      "employment": 22940.0,
+      "bachelors_plus_share": 100.0,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "113071",
+      "occupation_title": "Transportation, Storage, and Distribution Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 2.8,
+      "annual_median_wage": 107230.0,
+      "employment": 221180.0,
+      "bachelors_plus_share": 95.24,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "113061",
+      "occupation_title": "Purchasing Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 0.0,
+      "annual_median_wage": 148080.0,
+      "employment": 84320.0,
+      "bachelors_plus_share": 63.16,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "112022",
+      "occupation_title": "Sales Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 3.88,
+      "annual_median_wage": 148270.0,
+      "employment": 637080.0,
+      "bachelors_plus_share": 76.19,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    },
+    {
+      "soc_code": "112033",
+      "occupation_title": "Fundraising Managers",
+      "ai_intensity": 0.0,
+      "ai_skill_share": 0.0,
+      "annual_median_wage": 125470.0,
+      "employment": 38810.0,
+      "bachelors_plus_share": 76.42,
+      "job_zone": 4.0,
+      "signal_occupation_titles": ""
+    }
+  ],
+  "fastest_movers": [
+    {
+      "soc_code": "132054",
+      "occupation_title": "Financial Risk Specialists",
+      "previous_ai_intensity": 2.47,
+      "current_ai_intensity": 3.85,
+      "intensity_change": 1.38
+    },
+    {
+      "soc_code": "151221",
+      "occupation_title": "Computer and Information Research Scientists",
+      "previous_ai_intensity": 8.08,
+      "current_ai_intensity": 9.0,
+      "intensity_change": 0.92
+    },
+    {
+      "soc_code": "172112",
+      "occupation_title": "Industrial Engineers",
+      "previous_ai_intensity": 2.59,
+      "current_ai_intensity": 2.96,
+      "intensity_change": 0.37
+    },
+    {
+      "soc_code": "152051",
+      "occupation_title": "Data Scientists",
+      "previous_ai_intensity": 6.58,
+      "current_ai_intensity": 6.88,
+      "intensity_change": 0.3
+    },
+    {
+      "soc_code": "173025",
+      "occupation_title": "Environmental Engineering Technologists and Technicians",
+      "previous_ai_intensity": 3.32,
+      "current_ai_intensity": 3.57,
+      "intensity_change": 0.25
+    },
+    {
+      "soc_code": "151252",
+      "occupation_title": "Software Developers",
+      "previous_ai_intensity": 2.56,
+      "current_ai_intensity": 2.81,
+      "intensity_change": 0.25
+    },
+    {
+      "soc_code": "333021",
+      "occupation_title": "Detectives and Criminal Investigators",
+      "previous_ai_intensity": 3.64,
+      "current_ai_intensity": 3.77,
+      "intensity_change": 0.13
+    },
+    {
+      "soc_code": "173026",
+      "occupation_title": "Industrial Engineering Technologists and Technicians",
+      "previous_ai_intensity": 1.39,
+      "current_ai_intensity": 1.49,
+      "intensity_change": 0.1
+    },
+    {
+      "soc_code": "172031",
+      "occupation_title": "Bioengineers and Biomedical Engineers",
+      "previous_ai_intensity": 2.05,
+      "current_ai_intensity": 2.12,
+      "intensity_change": 0.07
+    },
+    {
+      "soc_code": "132051",
+      "occupation_title": "Financial and Investment Analysts",
+      "previous_ai_intensity": 2.56,
+      "current_ai_intensity": 2.57,
+      "intensity_change": 0.01
+    },
+    {
+      "soc_code": "111011",
+      "occupation_title": "Chief Executives",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "111021",
+      "occupation_title": "General and Operations Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "111031",
+      "occupation_title": "Legislators",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "112011",
+      "occupation_title": "Advertising and Promotions Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "112021",
+      "occupation_title": "Marketing Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "112022",
+      "occupation_title": "Sales Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "112032",
+      "occupation_title": "Public Relations Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "112033",
+      "occupation_title": "Fundraising Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "113012",
+      "occupation_title": "Administrative Services Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    },
+    {
+      "soc_code": "113013",
+      "occupation_title": "Facilities Managers",
+      "previous_ai_intensity": 0.0,
+      "current_ai_intensity": 0.0,
+      "intensity_change": 0.0
+    }
+  ],
+  "task_complements": [
+    {
+      "task_category": "creative_communication",
+      "comparison_share": 0.0772415296,
+      "high_ai_share": 0.227374552,
+      "lift": 2.9436826693
+    },
+    {
+      "task_category": "analytical_judgment",
+      "comparison_share": 0.0825798017,
+      "high_ai_share": 0.2018369176,
+      "lift": 2.444143887
+    },
+    {
+      "task_category": "technical_computational",
+      "comparison_share": 0.027780804,
+      "high_ai_share": 0.063844086,
+      "lift": 2.2981367278
+    },
+    {
+      "task_category": "interpersonal",
+      "comparison_share": 0.1066564985,
+      "high_ai_share": 0.1308243728,
+      "lift": 1.2265954214
+    },
+    {
+      "task_category": "other",
+      "comparison_share": 0.4871990413,
+      "high_ai_share": 0.3017473118,
+      "lift": 0.619351202
+    },
+    {
+      "task_category": "routine_information",
+      "comparison_share": 0.0807277481,
+      "high_ai_share": 0.0456989247,
+      "lift": 0.5660869502
+    },
+    {
+      "task_category": "physical_operational",
+      "comparison_share": 0.1378145768,
+      "high_ai_share": 0.0286738351,
+      "lift": 0.2080609744
+    }
+  ],
+  "geography": [
+    {
+      "soc_code": "151232",
+      "area_code": "0600000",
+      "area_name": "California",
+      "year": 2025,
+      "employment": 74490.0,
+      "annual_median_wage": 79570.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 128.6291626253,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "0600000",
+      "area_name": "California",
+      "year": 2025,
+      "employment": 284390.0,
+      "annual_median_wage": 174410.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 128.2615090454,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "0600000",
+      "area_name": "California",
+      "year": 2025,
+      "employment": 59060.0,
+      "annual_median_wage": 127720.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 120.661313179,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "0600000",
+      "area_name": "California",
+      "year": 2025,
+      "employment": 39310.0,
+      "annual_median_wage": 141590.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 117.7659485985,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "0600000",
+      "area_name": "California",
+      "year": 2025,
+      "employment": 8440.0,
+      "annual_median_wage": 159100.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 113.3998574483,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "1200000",
+      "area_name": "Florida",
+      "year": 2025,
+      "employment": 10240.0,
+      "annual_median_wage": 115820.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 96.3320302753,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "1200000",
+      "area_name": "Florida",
+      "year": 2025,
+      "employment": 87890.0,
+      "annual_median_wage": 130980.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 96.3229886748,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "1200000",
+      "area_name": "Florida",
+      "year": 2025,
+      "employment": 35270.0,
+      "annual_median_wage": 101900.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 96.2683042041,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "1200000",
+      "area_name": "Florida",
+      "year": 2025,
+      "employment": 51220.0,
+      "annual_median_wage": 58740.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 94.9563530553,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "1200000",
+      "area_name": "Florida",
+      "year": 2025,
+      "employment": 1070.0,
+      "annual_median_wage": 119810.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 85.3955808981,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "1700000",
+      "area_name": "Illinois",
+      "year": 2025,
+      "employment": 630.0,
+      "annual_median_wage": 136540.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 97.3200285103,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "1700000",
+      "area_name": "Illinois",
+      "year": 2025,
+      "employment": 56310.0,
+      "annual_median_wage": 132110.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 97.1539932343,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "1700000",
+      "area_name": "Illinois",
+      "year": 2025,
+      "employment": 26060.0,
+      "annual_median_wage": 59860.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 96.7668929842,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "1700000",
+      "area_name": "Illinois",
+      "year": 2025,
+      "employment": 20610.0,
+      "annual_median_wage": 101570.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 95.9565422768,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "1700000",
+      "area_name": "Illinois",
+      "year": 2025,
+      "employment": 10520.0,
+      "annual_median_wage": 106560.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 88.6301255926,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "2500000",
+      "area_name": "Massachusetts",
+      "year": 2025,
+      "employment": 1760.0,
+      "annual_median_wage": 170510.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 121.5324305061,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "2500000",
+      "area_name": "Massachusetts",
+      "year": 2025,
+      "employment": 48190.0,
+      "annual_median_wage": 165210.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 121.4958082071,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "2500000",
+      "area_name": "Massachusetts",
+      "year": 2025,
+      "employment": 17570.0,
+      "annual_median_wage": 75070.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 121.3546718396,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "2500000",
+      "area_name": "Massachusetts",
+      "year": 2025,
+      "employment": 22160.0,
+      "annual_median_wage": 128240.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 121.1525743977,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "2500000",
+      "area_name": "Massachusetts",
+      "year": 2025,
+      "employment": 9420.0,
+      "annual_median_wage": 131750.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 109.5816351992,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "3600000",
+      "area_name": "New York",
+      "year": 2025,
+      "employment": 1950.0,
+      "annual_median_wage": 181990.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 129.71489665,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "3600000",
+      "area_name": "New York",
+      "year": 2025,
+      "employment": 113510.0,
+      "annual_median_wage": 166180.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 122.2091484042,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "3600000",
+      "area_name": "New York",
+      "year": 2025,
+      "employment": 39100.0,
+      "annual_median_wage": 72560.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 117.2971225348,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "3600000",
+      "area_name": "New York",
+      "year": 2025,
+      "employment": 23970.0,
+      "annual_median_wage": 130460.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 108.5086916743,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "3600000",
+      "area_name": "New York",
+      "year": 2025,
+      "employment": 24100.0,
+      "annual_median_wage": 109610.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 103.5521965045,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "3700000",
+      "area_name": "North Carolina",
+      "year": 2025,
+      "employment": 20910.0,
+      "annual_median_wage": 106850.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 100.9447331129,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "3700000",
+      "area_name": "North Carolina",
+      "year": 2025,
+      "employment": 58470.0,
+      "annual_median_wage": 134710.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 99.0660391234,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "3700000",
+      "area_name": "North Carolina",
+      "year": 2025,
+      "employment": 11430.0,
+      "annual_median_wage": 119090.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 99.0518173501,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "3700000",
+      "area_name": "North Carolina",
+      "year": 2025,
+      "employment": 23100.0,
+      "annual_median_wage": 60120.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 97.1871968962,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "3700000",
+      "area_name": "North Carolina",
+      "year": 2025,
+      "employment": 600.0,
+      "annual_median_wage": 128370.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 91.4967925873,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "4800000",
+      "area_name": "Texas",
+      "year": 2025,
+      "employment": 25860.0,
+      "annual_median_wage": 122090.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 101.5470348499,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "4800000",
+      "area_name": "Texas",
+      "year": 2025,
+      "employment": 47990.0,
+      "annual_median_wage": 107390.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 101.4548889939,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "4800000",
+      "area_name": "Texas",
+      "year": 2025,
+      "employment": 163880.0,
+      "annual_median_wage": 132150.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 97.1834093249,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "4800000",
+      "area_name": "Texas",
+      "year": 2025,
+      "employment": 72030.0,
+      "annual_median_wage": 59490.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 96.1687681862,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "4800000",
+      "area_name": "Texas",
+      "year": 2025,
+      "employment": 1960.0,
+      "annual_median_wage": 121210.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 86.393442623,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "5100000",
+      "area_name": "Virginia",
+      "year": 2025,
+      "employment": 23190.0,
+      "annual_median_wage": 120840.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 114.1615493623,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "5100000",
+      "area_name": "Virginia",
+      "year": 2025,
+      "employment": 3590.0,
+      "annual_median_wage": 157390.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 112.1810406272,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "5100000",
+      "area_name": "Virginia",
+      "year": 2025,
+      "employment": 8920.0,
+      "annual_median_wage": 126430.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 105.1567828329,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "5100000",
+      "area_name": "Virginia",
+      "year": 2025,
+      "employment": 20910.0,
+      "annual_median_wage": 65040.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 105.1406401552,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "5100000",
+      "area_name": "Virginia",
+      "year": 2025,
+      "employment": 88280.0,
+      "annual_median_wage": 136460.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 100.3529930872,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151221",
+      "area_code": "5300000",
+      "area_name": "Washington",
+      "year": 2025,
+      "employment": 2050.0,
+      "annual_median_wage": 202400.0,
+      "national_median_wage": 140300.0,
+      "wage_index": 144.262295082,
+      "occupation_title": "Computer and Information Research Scientists",
+      "ai_intensity": 9.0
+    },
+    {
+      "soc_code": "152051",
+      "area_code": "5300000",
+      "area_name": "Washington",
+      "year": 2025,
+      "employment": 9600.0,
+      "annual_median_wage": 163350.0,
+      "national_median_wage": 120230.0,
+      "wage_index": 135.8645928637,
+      "occupation_title": "Data Scientists",
+      "ai_intensity": 6.88
+    },
+    {
+      "soc_code": "151252",
+      "area_code": "5300000",
+      "area_name": "Washington",
+      "year": 2025,
+      "employment": 107030.0,
+      "annual_median_wage": 166540.0,
+      "national_median_wage": 135980.0,
+      "wage_index": 122.4738932196,
+      "occupation_title": "Software Developers",
+      "ai_intensity": 2.81
+    },
+    {
+      "soc_code": "151211",
+      "area_code": "5300000",
+      "area_name": "Washington",
+      "year": 2025,
+      "employment": 24120.0,
+      "annual_median_wage": 129410.0,
+      "national_median_wage": 105850.0,
+      "wage_index": 122.2579121398,
+      "occupation_title": "Computer Systems Analysts",
+      "ai_intensity": 0.0
+    },
+    {
+      "soc_code": "151232",
+      "area_code": "5300000",
+      "area_name": "Washington",
+      "year": 2025,
+      "employment": 21860.0,
+      "annual_median_wage": 75220.0,
+      "national_median_wage": 61860.0,
+      "wage_index": 121.5971548658,
+      "occupation_title": "Computer User Support Specialists",
+      "ai_intensity": 0.0
+    }
+  ],
+  "skill_mix": [
+    {
+      "category": "analytics",
+      "skills": 480,
+      "description": "Statistical computing, business intelligence, and quantitative analysis."
+    },
+    {
+      "category": "core_ai_ml",
+      "skills": 21,
+      "description": "Model development, machine learning, NLP, vision, and generative AI."
+    },
+    {
+      "category": "data_engineering",
+      "skills": 402,
+      "description": "Data pipelines and platforms that make AI systems possible."
+    },
+    {
+      "category": "mlops_cloud",
+      "skills": 43,
+      "description": "Model deployment, orchestration, cloud ML, and reproducibility."
+    }
+  ],
+  "methodology_notes": [
+    "AI intensity is a transparent weighted share of O*NET software-skill signals.",
+    "O*NET software-skill hot and in-demand flags are derived from employer job postings.",
+    "The wage model is cross-sectional and descriptive; it does not identify a causal premium.",
+    "Federal and proprietary postings are not redistributed.",
+    "Suppressed or unavailable BLS estimates remain missing rather than being imputed.",
+    "Offline build used cached BLS evidence; 3 newly requested occupations were unavailable in the cache."
+  ]
+}

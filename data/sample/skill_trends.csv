@@ -1,0 +1,799 @@
+soc_code,occupation_title,current_ai_intensity,current_ai_skill_share,previous_title,previous_ai_intensity,previous_ai_skill_share,intensity_change,skill_share_change
+132054,Financial Risk Specialists,3.85,7.37,Financial Risk Specialists,2.47,5.88,1.38,1.49
+151221,Computer and Information Research Scientists,9.0,13.41,Computer and Information Research Scientists,8.08,12.0,0.92,1.41
+172112,Industrial Engineers,2.96,9.44,Industrial Engineers,2.59,8.9,0.37,0.54
+152051,Data Scientists,6.88,16.79,Data Scientists,6.58,16.04,0.3,0.75
+173025,Environmental Engineering Technologists and Technicians,3.57,8.7,Environmental Engineering Technologists and Technicians,3.32,8.22,0.25,0.48
+151252,Software Developers,2.81,5.12,Software Developers,2.56,4.69,0.25,0.43
+333021,Detectives and Criminal Investigators,3.77,12.26,Detectives and Criminal Investigators,3.64,11.82,0.13,0.44
+173026,Industrial Engineering Technologists and Technicians,1.49,3.7,Industrial Engineering Technologists and Technicians,1.39,3.48,0.1,0.22
+172031,Bioengineers and Biomedical Engineers,2.12,5.22,Bioengineers and Biomedical Engineers,2.05,5.04,0.07,0.18
+132051,Financial and Investment Analysts,2.57,6.11,Financial and Investment Analysts,2.56,6.08,0.01,0.03
+111011,Chief Executives,0.0,5.36,Chief Executives,0.0,5.26,0.0,0.1
+111021,General and Operations Managers,0.0,4.26,General and Operations Managers,0.0,4.11,0.0,0.15
+111031,Legislators,0.0,6.25,Legislators,0.0,6.25,0.0,0.0
+112011,Advertising and Promotions Managers,0.0,5.56,Advertising and Promotions Managers,0.0,5.48,0.0,0.08
+112021,Marketing Managers,0.0,5.19,Marketing Managers,0.0,5.23,0.0,-0.04
+112022,Sales Managers,0.0,3.88,Sales Managers,0.0,3.88,0.0,0.0
+112032,Public Relations Managers,0.0,0.0,Public Relations Managers,0.0,0.0,0.0,0.0
+112033,Fundraising Managers,0.0,0.0,Fundraising Managers,0.0,0.0,0.0,0.0
+113012,Administrative Services Managers,0.0,1.79,Administrative Services Managers,0.0,1.79,0.0,0.0
+113013,Facilities Managers,0.0,0.0,Facilities Managers,0.0,0.0,0.0,0.0
+113021,Computer and Information Systems Managers,0.0,5.08,Computer and Information Systems Managers,0.0,5.08,0.0,0.0
+113031,Financial Managers,0.0,10.75,Financial Managers,0.0,10.42,0.0,0.33
+113051,Industrial Production Managers,0.0,5.61,Industrial Production Managers,0.0,5.41,0.0,0.2
+113061,Purchasing Managers,0.0,0.0,Purchasing Managers,0.0,0.0,0.0,0.0
+113071,"Transportation, Storage, and Distribution Managers",0.0,2.8,"Transportation, Storage, and Distribution Managers",0.0,2.7,0.0,0.1
+113111,Compensation and Benefits Managers,0.0,2.35,Compensation and Benefits Managers,0.0,2.33,0.0,0.02
+113121,Human Resources Managers,0.0,0.0,Human Resources Managers,0.0,0.0,0.0,0.0
+113131,Training and Development Managers,0.0,0.0,Training and Development Managers,0.0,0.0,0.0,0.0
+119013,"Farmers, Ranchers, and Other Agricultural Managers",0.0,1.32,"Farmers, Ranchers, and Other Agricultural Managers",0.0,1.3,0.0,0.02
+119021,Construction Managers,0.0,0.0,Construction Managers,0.0,0.0,0.0,0.0
+119031,"Education and Childcare Administrators, Preschool and Daycare",0.0,0.0,"Education and Childcare Administrators, Preschool and Daycare",0.0,0.0,0.0,0.0
+119032,"Education Administrators, Kindergarten through Secondary",0.0,3.51,"Education Administrators, Kindergarten through Secondary",0.0,3.57,0.0,-0.06
+119033,"Education Administrators, Postsecondary",0.0,1.69,"Education Administrators, Postsecondary",0.0,1.69,0.0,0.0
+119041,Architectural and Engineering Managers,0.0,8.57,Architectural and Engineering Managers,0.0,8.28,0.0,0.29
+119051,Food Service Managers,0.0,0.0,Food Service Managers,0.0,0.0,0.0,0.0
+119071,Gambling Managers,0.0,0.0,Gambling Managers,0.0,0.0,0.0,0.0
+119072,"Entertainment and Recreation Managers, Except Gambling",0.0,1.56,"Entertainment and Recreation Managers, Except Gambling",0.0,1.56,0.0,0.0
+119081,Lodging Managers,0.0,0.0,Lodging Managers,0.0,0.0,0.0,0.0
+119111,Medical and Health Services Managers,0.0,5.56,Medical and Health Services Managers,0.0,5.51,0.0,0.05
+119121,Natural Sciences Managers,0.0,8.43,Natural Sciences Managers,0.0,8.14,0.0,0.29
+119131,Postmasters and Mail Superintendents,0.0,0.0,Postmasters and Mail Superintendents,0.0,0.0,0.0,0.0
+119141,"Property, Real Estate, and Community Association Managers",0.0,0.0,"Property, Real Estate, and Community Association Managers",0.0,0.0,0.0,0.0
+119151,Social and Community Service Managers,0.0,0.0,Social and Community Service Managers,0.0,0.0,0.0,0.0
+119161,Emergency Management Directors,0.0,8.7,Emergency Management Directors,0.0,8.33,0.0,0.37
+119171,Funeral Home Managers,0.0,0.0,Funeral Home Managers,0.0,0.0,0.0,0.0
+119179,Fitness and Wellness Coordinators,0.0,0.0,Fitness and Wellness Coordinators,0.0,0.0,0.0,0.0
+119199,Regulatory Affairs Managers,0.0,4.57,Regulatory Affairs Managers,0.0,4.44,0.0,0.13
+131011,"Agents and Business Managers of Artists, Performers, and Athletes",0.0,4.35,"Agents and Business Managers of Artists, Performers, and Athletes",0.0,4.0,0.0,0.35
+131021,"Buyers and Purchasing Agents, Farm Products",0.0,0.0,"Buyers and Purchasing Agents, Farm Products",0.0,0.0,0.0,0.0
+131022,"Wholesale and Retail Buyers, Except Farm Products",0.0,0.0,"Wholesale and Retail Buyers, Except Farm Products",0.0,0.0,0.0,0.0
+131023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.0,0.0,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.0,0.0,0.0,0.0
+131031,"Claims Adjusters, Examiners, and Investigators",0.0,0.0,"Claims Adjusters, Examiners, and Investigators",0.0,0.0,0.0,0.0
+131032,"Insurance Appraisers, Auto Damage",0.0,0.0,"Insurance Appraisers, Auto Damage",0.0,0.0,0.0,0.0
+131041,Compliance Officers,0.0,4.65,Compliance Officers,0.0,4.51,0.0,0.14
+131051,Cost Estimators,0.0,0.0,Cost Estimators,0.0,0.0,0.0,0.0
+131071,Human Resources Specialists,0.0,2.33,Human Resources Specialists,0.0,2.33,0.0,0.0
+131074,Farm Labor Contractors,0.0,0.0,Farm Labor Contractors,0.0,0.0,0.0,0.0
+131075,Labor Relations Specialists,0.0,4.76,Labor Relations Specialists,0.0,4.76,0.0,0.0
+131081,Logisticians,0.0,14.77,Logisticians,0.0,14.29,0.0,0.48
+131082,Project Management Specialists,0.0,2.22,Project Management Specialists,0.0,2.2,0.0,0.02
+131111,Management Analysts,0.0,6.48,Management Analysts,0.0,6.48,0.0,0.0
+131121,"Meeting, Convention, and Event Planners",0.0,0.0,"Meeting, Convention, and Event Planners",0.0,0.0,0.0,0.0
+131131,Fundraisers,0.0,3.7,Fundraisers,0.0,3.7,0.0,0.0
+131141,"Compensation, Benefits, and Job Analysis Specialists",0.0,3.16,"Compensation, Benefits, and Job Analysis Specialists",0.0,3.12,0.0,0.04
+131151,Training and Development Specialists,0.0,0.85,Training and Development Specialists,0.0,0.85,0.0,0.0
+131161,Market Research Analysts and Marketing Specialists,0.0,5.95,Market Research Analysts and Marketing Specialists,0.0,5.91,0.0,0.04
+131199,Business Continuity Planners,0.0,5.62,Business Continuity Planners,0.0,5.59,0.0,0.03
+132011,Accountants and Auditors,0.0,2.11,Accountants and Auditors,0.0,2.09,0.0,0.02
+132022,Appraisers of Personal and Business Property,0.0,0.0,Appraisers of Personal and Business Property,0.0,0.0,0.0,0.0
+132023,Appraisers and Assessors of Real Estate,0.0,0.0,Appraisers and Assessors of Real Estate,0.0,0.0,0.0,0.0
+132031,Budget Analysts,0.0,5.36,Budget Analysts,0.0,3.39,0.0,1.97
+132041,Credit Analysts,0.0,9.76,Credit Analysts,0.0,9.76,0.0,0.0
+132052,Personal Financial Advisors,0.0,1.96,Personal Financial Advisors,0.0,1.96,0.0,0.0
+132053,Insurance Underwriters,0.0,0.0,Insurance Underwriters,0.0,0.0,0.0,0.0
+132061,Financial Examiners,0.0,3.7,Financial Examiners,0.0,3.45,0.0,0.25
+132071,Credit Counselors,0.0,0.0,Credit Counselors,0.0,0.0,0.0,0.0
+132072,Loan Officers,0.0,0.0,Loan Officers,0.0,0.0,0.0,0.0
+132081,"Tax Examiners and Collectors, and Revenue Agents",0.0,4.55,"Tax Examiners and Collectors, and Revenue Agents",0.0,4.55,0.0,0.0
+132082,Tax Preparers,0.0,0.0,Tax Preparers,0.0,0.0,0.0,0.0
+132099,Financial Quantitative Analysts,0.0,22.64,Financial Quantitative Analysts,0.0,22.64,0.0,0.0
+151211,Computer Systems Analysts,0.0,6.65,Computer Systems Analysts,0.0,6.61,0.0,0.04
+151212,Information Security Analysts,0.0,5.31,Information Security Analysts,0.0,5.31,0.0,0.0
+151231,Computer Network Support Specialists,0.0,2.11,Computer Network Support Specialists,0.0,2.08,0.0,0.03
+151232,Computer User Support Specialists,0.0,5.04,Computer User Support Specialists,0.0,4.92,0.0,0.12
+151241,Computer Network Architects,0.0,5.41,Computer Network Architects,0.0,5.28,0.0,0.13
+151242,Database Administrators,0.0,9.03,Database Administrators,0.0,8.42,0.0,0.61
+151243,Database Architects,0.0,12.36,Database Architects,0.0,11.82,0.0,0.54
+151244,Network and Computer Systems Administrators,0.0,4.98,Network and Computer Systems Administrators,0.0,4.89,0.0,0.09
+151251,Computer Programmers,0.0,5.12,Computer Programmers,0.0,5.1,0.0,0.02
+151253,Software Quality Assurance Analysts and Testers,0.0,3.73,Software Quality Assurance Analysts and Testers,0.0,3.76,0.0,-0.03
+151254,Web Developers,0.0,5.98,Web Developers,0.0,6.05,0.0,-0.07
+151255,Web and Digital Interface Designers,0.0,6.56,Web and Digital Interface Designers,0.0,6.56,0.0,0.0
+151299,Web Administrators,0.0,11.04,Web Administrators,0.0,10.94,0.0,0.1
+152011,Actuaries,0.0,16.67,Actuaries,0.0,15.56,0.0,1.11
+152021,Mathematicians,0.0,7.53,Mathematicians,0.0,7.53,0.0,0.0
+152031,Operations Research Analysts,0.0,7.89,Operations Research Analysts,0.0,7.89,0.0,0.0
+152041,Statisticians,0.0,25.0,Statisticians,0.0,24.21,0.0,0.79
+152099,Bioinformatics Technicians,0.0,12.77,Bioinformatics Technicians,0.0,12.0,0.0,0.77
+171011,"Architects, Except Landscape and Naval",0.0,2.82,"Architects, Except Landscape and Naval",0.0,2.82,0.0,0.0
+171012,Landscape Architects,0.0,0.0,Landscape Architects,0.0,0.0,0.0,0.0
+171021,Cartographers and Photogrammetrists,0.0,2.86,Cartographers and Photogrammetrists,0.0,2.67,0.0,0.19
+171022,Surveyors,0.0,1.32,Surveyors,0.0,1.28,0.0,0.04
+172011,Aerospace Engineers,0.0,3.57,Aerospace Engineers,0.0,3.53,0.0,0.04
+172021,Agricultural Engineers,0.0,4.55,Agricultural Engineers,0.0,4.17,0.0,0.38
+172041,Chemical Engineers,0.0,5.56,Chemical Engineers,0.0,5.0,0.0,0.56
+172051,Civil Engineers,0.0,4.5,Civil Engineers,0.0,4.42,0.0,0.08
+172061,Computer Hardware Engineers,0.0,3.57,Computer Hardware Engineers,0.0,3.42,0.0,0.15
+172071,Electrical Engineers,0.0,2.5,Electrical Engineers,0.0,2.46,0.0,0.04
+172072,"Electronics Engineers, Except Computer",0.0,9.52,"Electronics Engineers, Except Computer",0.0,9.52,0.0,0.0
+172081,Environmental Engineers,0.0,5.56,Environmental Engineers,0.0,5.45,0.0,0.11
+172111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,1.87,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.0,1.77,0.0,0.1
+172121,Marine Engineers and Naval Architects,0.0,2.5,Marine Engineers and Naval Architects,0.0,2.5,0.0,0.0
+172131,Materials Engineers,0.0,5.88,Materials Engineers,0.0,5.26,0.0,0.62
+172141,Mechanical Engineers,0.0,7.14,Mechanical Engineers,0.0,6.47,0.0,0.67
+172151,"Mining and Geological Engineers, Including Mining Safety Engineers",0.0,4.44,"Mining and Geological Engineers, Including Mining Safety Engineers",0.0,4.26,0.0,0.18
+172161,Nuclear Engineers,0.0,7.69,Nuclear Engineers,0.0,6.98,0.0,0.71
+172171,Petroleum Engineers,0.0,9.09,Petroleum Engineers,0.0,8.89,0.0,0.2
+172199,"Energy Engineers, Except Wind and Solar",0.0,10.44,"Energy Engineers, Except Wind and Solar",0.0,10.26,0.0,0.18
+173011,Architectural and Civil Drafters,0.0,0.0,Architectural and Civil Drafters,0.0,0.0,0.0,0.0
+173012,Electrical and Electronics Drafters,0.0,2.67,Electrical and Electronics Drafters,0.0,2.63,0.0,0.04
+173013,Mechanical Drafters,0.0,0.0,Mechanical Drafters,0.0,0.0,0.0,0.0
+173021,Aerospace Engineering and Operations Technologists and Technicians,0.0,10.0,Aerospace Engineering and Operations Technologists and Technicians,0.0,9.3,0.0,0.7
+173022,Civil Engineering Technologists and Technicians,0.0,0.0,Civil Engineering Technologists and Technicians,0.0,0.0,0.0,0.0
+173023,Electrical and Electronic Engineering Technologists and Technicians,0.0,1.94,Electrical and Electronic Engineering Technologists and Technicians,0.0,1.87,0.0,0.07
+173024,Electro-Mechanical and Mechatronics Technologists and Technicians,0.0,6.67,Electro-Mechanical and Mechatronics Technologists and Technicians,0.0,6.25,0.0,0.42
+173027,Mechanical Engineering Technologists and Technicians,0.0,2.17,Mechanical Engineering Technologists and Technicians,0.0,2.08,0.0,0.09
+173028,Calibration Technologists and Technicians,0.0,6.25,Calibration Technologists and Technicians,0.0,6.67,0.0,-0.42
+173029,Non-Destructive Testing Specialists,0.0,6.9,Non-Destructive Testing Specialists,0.0,5.71,0.0,1.19
+173031,Surveying and Mapping Technicians,0.0,1.98,Surveying and Mapping Technicians,0.0,1.9,0.0,0.08
+191011,Animal Scientists,0.0,11.11,Animal Scientists,0.0,10.71,0.0,0.4
+191012,Food Scientists and Technologists,0.0,9.09,Food Scientists and Technologists,0.0,8.7,0.0,0.39
+191013,Soil and Plant Scientists,0.0,2.86,Soil and Plant Scientists,0.0,2.78,0.0,0.08
+191021,Biochemists and Biophysicists,0.0,6.94,Biochemists and Biophysicists,0.0,6.85,0.0,0.09
+191022,Microbiologists,0.0,2.27,Microbiologists,0.0,2.22,0.0,0.05
+191023,Zoologists and Wildlife Biologists,0.0,11.54,Zoologists and Wildlife Biologists,0.0,10.71,0.0,0.83
+191029,Bioinformatics Scientists,0.0,12.5,Bioinformatics Scientists,0.0,12.35,0.0,0.15
+191031,Conservation Scientists,0.0,3.61,Conservation Scientists,0.0,3.49,0.0,0.12
+191032,Foresters,0.0,0.0,Foresters,0.0,0.0,0.0,0.0
+191041,Epidemiologists,0.0,16.67,Epidemiologists,0.0,15.91,0.0,0.76
+191042,"Medical Scientists, Except Epidemiologists",0.0,10.81,"Medical Scientists, Except Epidemiologists",0.0,9.76,0.0,1.05
+192011,Astronomers,0.0,13.16,Astronomers,0.0,13.89,0.0,-0.73
+192012,Physicists,0.0,5.41,Physicists,0.0,5.41,0.0,0.0
+192021,Atmospheric and Space Scientists,0.0,6.45,Atmospheric and Space Scientists,0.0,6.35,0.0,0.1
+192031,Chemists,0.0,4.17,Chemists,0.0,4.11,0.0,0.06
+192032,Materials Scientists,0.0,5.41,Materials Scientists,0.0,5.41,0.0,0.0
+192041,"Environmental Scientists and Specialists, Including Health",0.0,9.48,"Environmental Scientists and Specialists, Including Health",0.0,9.17,0.0,0.31
+192042,"Geoscientists, Except Hydrologists and Geographers",0.0,2.86,"Geoscientists, Except Hydrologists and Geographers",0.0,2.82,0.0,0.04
+192043,Hydrologists,0.0,2.6,Hydrologists,0.0,2.56,0.0,0.04
+192099,Remote Sensing Scientists and Technologists,0.0,8.99,Remote Sensing Scientists and Technologists,0.0,8.89,0.0,0.1
+193011,Economists,0.0,27.12,Economists,0.0,27.12,0.0,0.0
+193022,Survey Researchers,0.0,7.14,Survey Researchers,0.0,7.14,0.0,0.0
+193032,Industrial-Organizational Psychologists,0.0,3.45,Industrial-Organizational Psychologists,0.0,3.45,0.0,0.0
+193033,Clinical and Counseling Psychologists,0.0,1.75,Clinical and Counseling Psychologists,0.0,1.72,0.0,0.03
+193034,School Psychologists,0.0,0.0,School Psychologists,0.0,0.0,0.0,0.0
+193039,Neuropsychologists,0.0,8.7,Neuropsychologists,0.0,8.7,0.0,0.0
+193041,Sociologists,0.0,5.13,Sociologists,0.0,5.0,0.0,0.13
+193051,Urban and Regional Planners,0.0,1.3,Urban and Regional Planners,0.0,1.19,0.0,0.11
+193091,Anthropologists and Archeologists,0.0,6.9,Anthropologists and Archeologists,0.0,6.78,0.0,0.12
+193092,Geographers,0.0,8.89,Geographers,0.0,9.09,0.0,-0.2
+193093,Historians,0.0,4.26,Historians,0.0,4.26,0.0,0.0
+193094,Political Scientists,0.0,12.82,Political Scientists,0.0,12.5,0.0,0.32
+193099,Transportation Planners,0.0,11.11,Transportation Planners,0.0,4.76,0.0,6.35
+194012,Agricultural Technicians,0.0,3.85,Agricultural Technicians,0.0,3.33,0.0,0.52
+194013,Food Science Technicians,0.0,14.29,Food Science Technicians,0.0,12.5,0.0,1.79
+194021,Biological Technicians,0.0,6.06,Biological Technicians,0.0,6.06,0.0,0.0
+194031,Chemical Technicians,0.0,11.11,Chemical Technicians,0.0,10.0,0.0,1.11
+194042,"Environmental Science and Protection Technicians, Including Health",0.0,3.33,"Environmental Science and Protection Technicians, Including Health",0.0,3.03,0.0,0.3
+194043,"Geological Technicians, Except Hydrologic Technicians",0.0,0.0,"Geological Technicians, Except Hydrologic Technicians",0.0,0.0,0.0,0.0
+194044,Hydrologic Technicians,0.0,0.0,Hydrologic Technicians,0.0,0.0,0.0,0.0
+194051,Nuclear Technicians,0.0,8.7,Nuclear Technicians,0.0,7.69,0.0,1.01
+194061,Social Science Research Assistants,0.0,21.21,Social Science Research Assistants,0.0,21.21,0.0,0.0
+194071,Forest and Conservation Technicians,0.0,0.0,Forest and Conservation Technicians,0.0,0.0,0.0,0.0
+194092,Forensic Science Technicians,0.0,0.0,Forensic Science Technicians,0.0,0.0,0.0,0.0
+194099,Quality Control Analysts,0.0,6.98,Quality Control Analysts,0.0,6.87,0.0,0.11
+195011,Occupational Health and Safety Specialists,0.0,0.0,Occupational Health and Safety Specialists,0.0,0.0,0.0,0.0
+195012,Occupational Health and Safety Technicians,0.0,5.26,Occupational Health and Safety Technicians,0.0,4.55,0.0,0.71
+211011,Substance Abuse and Behavioral Disorder Counselors,0.0,3.57,Substance Abuse and Behavioral Disorder Counselors,0.0,3.23,0.0,0.34
+211012,"Educational, Guidance, and Career Counselors and Advisors",0.0,2.63,"Educational, Guidance, and Career Counselors and Advisors",0.0,2.56,0.0,0.07
+211013,Marriage and Family Therapists,0.0,0.0,Marriage and Family Therapists,0.0,0.0,0.0,0.0
+211014,Mental Health Counselors,0.0,5.0,Mental Health Counselors,0.0,4.35,0.0,0.65
+211015,Rehabilitation Counselors,0.0,0.0,Rehabilitation Counselors,0.0,0.0,0.0,0.0
+211021,"Child, Family, and School Social Workers",0.0,0.0,"Child, Family, and School Social Workers",0.0,0.0,0.0,0.0
+211022,Healthcare Social Workers,0.0,0.0,Healthcare Social Workers,0.0,0.0,0.0,0.0
+211023,Mental Health and Substance Abuse Social Workers,0.0,0.0,Mental Health and Substance Abuse Social Workers,0.0,0.0,0.0,0.0
+211091,Health Education Specialists,0.0,0.0,Health Education Specialists,0.0,0.0,0.0,0.0
+211092,Probation Officers and Correctional Treatment Specialists,0.0,0.0,Probation Officers and Correctional Treatment Specialists,0.0,0.0,0.0,0.0
+211093,Social and Human Service Assistants,0.0,0.0,Social and Human Service Assistants,0.0,0.0,0.0,0.0
+211094,Community Health Workers,0.0,0.0,Community Health Workers,0.0,0.0,0.0,0.0
+212011,Clergy,0.0,0.0,Clergy,0.0,0.0,0.0,0.0
+212021,"Directors, Religious Activities and Education",0.0,0.0,"Directors, Religious Activities and Education",0.0,0.0,0.0,0.0
+231011,Lawyers,0.0,0.0,Lawyers,0.0,0.0,0.0,0.0
+231012,Judicial Law Clerks,0.0,0.0,Judicial Law Clerks,0.0,0.0,0.0,0.0
+231021,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.0,0.0,"Administrative Law Judges, Adjudicators, and Hearing Officers",0.0,0.0,0.0,0.0
+231022,"Arbitrators, Mediators, and Conciliators",0.0,0.0,"Arbitrators, Mediators, and Conciliators",0.0,0.0,0.0,0.0
+231023,"Judges, Magistrate Judges, and Magistrates",0.0,0.0,"Judges, Magistrate Judges, and Magistrates",0.0,0.0,0.0,0.0
+232011,Paralegals and Legal Assistants,0.0,0.0,Paralegals and Legal Assistants,0.0,0.0,0.0,0.0
+232093,"Title Examiners, Abstractors, and Searchers",0.0,0.0,"Title Examiners, Abstractors, and Searchers",0.0,0.0,0.0,0.0
+251011,"Business Teachers, Postsecondary",0.0,3.45,"Business Teachers, Postsecondary",0.0,3.12,0.0,0.33
+251021,"Computer Science Teachers, Postsecondary",0.0,2.38,"Computer Science Teachers, Postsecondary",0.0,2.27,0.0,0.11
+251022,"Mathematical Science Teachers, Postsecondary",0.0,7.69,"Mathematical Science Teachers, Postsecondary",0.0,7.41,0.0,0.28
+251031,"Architecture Teachers, Postsecondary",0.0,0.0,"Architecture Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251032,"Engineering Teachers, Postsecondary",0.0,6.67,"Engineering Teachers, Postsecondary",0.0,6.06,0.0,0.61
+251041,"Agricultural Sciences Teachers, Postsecondary",0.0,0.0,"Agricultural Sciences Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251042,"Biological Science Teachers, Postsecondary",0.0,8.33,"Biological Science Teachers, Postsecondary",0.0,7.69,0.0,0.64
+251043,"Forestry and Conservation Science Teachers, Postsecondary",0.0,5.71,"Forestry and Conservation Science Teachers, Postsecondary",0.0,5.41,0.0,0.3
+251051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.0,2.04,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",0.0,2.0,0.0,0.04
+251052,"Chemistry Teachers, Postsecondary",0.0,0.0,"Chemistry Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251053,"Environmental Science Teachers, Postsecondary",0.0,0.0,"Environmental Science Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251054,"Physics Teachers, Postsecondary",0.0,2.22,"Physics Teachers, Postsecondary",0.0,2.17,0.0,0.05
+251061,"Anthropology and Archeology Teachers, Postsecondary",0.0,0.0,"Anthropology and Archeology Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.0,0.0,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251063,"Economics Teachers, Postsecondary",0.0,10.53,"Economics Teachers, Postsecondary",0.0,10.0,0.0,0.53
+251064,"Geography Teachers, Postsecondary",0.0,2.5,"Geography Teachers, Postsecondary",0.0,2.44,0.0,0.06
+251065,"Political Science Teachers, Postsecondary",0.0,0.0,"Political Science Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251066,"Psychology Teachers, Postsecondary",0.0,4.55,"Psychology Teachers, Postsecondary",0.0,4.35,0.0,0.2
+251067,"Sociology Teachers, Postsecondary",0.0,10.71,"Sociology Teachers, Postsecondary",0.0,10.34,0.0,0.37
+251071,"Health Specialties Teachers, Postsecondary",0.0,2.94,"Health Specialties Teachers, Postsecondary",0.0,2.86,0.0,0.08
+251072,"Nursing Instructors and Teachers, Postsecondary",0.0,0.0,"Nursing Instructors and Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251081,"Education Teachers, Postsecondary",0.0,4.17,"Education Teachers, Postsecondary",0.0,4.0,0.0,0.17
+251082,"Library Science Teachers, Postsecondary",0.0,2.04,"Library Science Teachers, Postsecondary",0.0,1.89,0.0,0.15
+251111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",0.0,0.0,"Criminal Justice and Law Enforcement Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251112,"Law Teachers, Postsecondary",0.0,0.0,"Law Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251113,"Social Work Teachers, Postsecondary",0.0,0.0,"Social Work Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251121,"Art, Drama, and Music Teachers, Postsecondary",0.0,0.0,"Art, Drama, and Music Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251122,"Communications Teachers, Postsecondary",0.0,2.86,"Communications Teachers, Postsecondary",0.0,2.86,0.0,0.0
+251123,"English Language and Literature Teachers, Postsecondary",0.0,0.0,"English Language and Literature Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251124,"Foreign Language and Literature Teachers, Postsecondary",0.0,0.0,"Foreign Language and Literature Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251125,"History Teachers, Postsecondary",0.0,0.0,"History Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251126,"Philosophy and Religion Teachers, Postsecondary",0.0,0.0,"Philosophy and Religion Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251192,"Family and Consumer Sciences Teachers, Postsecondary",0.0,0.0,"Family and Consumer Sciences Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251193,"Recreation and Fitness Studies Teachers, Postsecondary",0.0,0.0,"Recreation and Fitness Studies Teachers, Postsecondary",0.0,0.0,0.0,0.0
+251194,"Career/Technical Education Teachers, Postsecondary",0.0,0.0,"Career/Technical Education Teachers, Postsecondary",0.0,0.0,0.0,0.0
+252011,"Preschool Teachers, Except Special Education",0.0,0.0,"Preschool Teachers, Except Special Education",0.0,0.0,0.0,0.0
+252012,"Kindergarten Teachers, Except Special Education",0.0,0.0,"Kindergarten Teachers, Except Special Education",0.0,0.0,0.0,0.0
+252021,"Elementary School Teachers, Except Special Education",0.0,0.0,"Elementary School Teachers, Except Special Education",0.0,0.0,0.0,0.0
+252022,"Middle School Teachers, Except Special and Career/Technical Education",0.0,0.0,"Middle School Teachers, Except Special and Career/Technical Education",0.0,0.0,0.0,0.0
+252023,"Career/Technical Education Teachers, Middle School",0.0,9.57,"Career/Technical Education Teachers, Middle School",0.0,9.38,0.0,0.19
+252031,"Secondary School Teachers, Except Special and Career/Technical Education",0.0,0.0,"Secondary School Teachers, Except Special and Career/Technical Education",0.0,0.0,0.0,0.0
+252032,"Career/Technical Education Teachers, Secondary School",0.0,0.0,"Career/Technical Education Teachers, Secondary School",0.0,0.0,0.0,0.0
+252051,"Special Education Teachers, Preschool",0.0,0.0,"Special Education Teachers, Preschool",0.0,0.0,0.0,0.0
+252055,"Special Education Teachers, Kindergarten",0.0,0.0,"Special Education Teachers, Kindergarten",0.0,0.0,0.0,0.0
+252056,"Special Education Teachers, Elementary School",0.0,0.0,"Special Education Teachers, Elementary School",0.0,0.0,0.0,0.0
+252057,"Special Education Teachers, Middle School",0.0,0.0,"Special Education Teachers, Middle School",0.0,0.0,0.0,0.0
+252058,"Special Education Teachers, Secondary School",0.0,0.0,"Special Education Teachers, Secondary School",0.0,0.0,0.0,0.0
+252059,Adapted Physical Education Specialists,0.0,0.0,Adapted Physical Education Specialists,0.0,0.0,0.0,0.0
+253011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0,0.0,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",0.0,0.0,0.0,0.0
+253021,Self-Enrichment Teachers,0.0,0.0,Self-Enrichment Teachers,0.0,0.0,0.0,0.0
+253031,"Substitute Teachers, Short-Term",0.0,0.0,"Substitute Teachers, Short-Term",0.0,0.0,0.0,0.0
+253041,Tutors,0.0,0.0,Tutors,0.0,0.0,0.0,0.0
+254011,Archivists,0.0,0.0,Archivists,0.0,0.0,0.0,0.0
+254012,Curators,0.0,6.82,Curators,0.0,6.52,0.0,0.3
+254013,Museum Technicians and Conservators,0.0,0.0,Museum Technicians and Conservators,0.0,0.0,0.0,0.0
+254022,Librarians and Media Collections Specialists,0.0,2.47,Librarians and Media Collections Specialists,0.0,2.41,0.0,0.06
+254031,Library Technicians,0.0,0.0,Library Technicians,0.0,0.0,0.0,0.0
+259021,Farm and Home Management Educators,0.0,0.0,Farm and Home Management Educators,0.0,0.0,0.0,0.0
+259031,Instructional Coordinators,0.0,2.27,Instructional Coordinators,0.0,2.27,0.0,0.0
+259042,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",0.0,0.0,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",0.0,0.0,0.0,0.0
+259043,"Teaching Assistants, Special Education",0.0,0.0,"Teaching Assistants, Special Education",0.0,0.0,0.0,0.0
+259044,"Teaching Assistants, Postsecondary",0.0,9.52,"Teaching Assistants, Postsecondary",0.0,9.09,0.0,0.43
+271011,Art Directors,0.0,1.92,Art Directors,0.0,1.92,0.0,0.0
+271012,Craft Artists,0.0,0.0,Craft Artists,0.0,0.0,0.0,0.0
+271013,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.0,1.89,"Fine Artists, Including Painters, Sculptors, and Illustrators",0.0,1.89,0.0,0.0
+271014,Special Effects Artists and Animators,0.0,0.77,Special Effects Artists and Animators,0.0,0.78,0.0,-0.01
+271021,Commercial and Industrial Designers,0.0,3.28,Commercial and Industrial Designers,0.0,3.23,0.0,0.05
+271022,Fashion Designers,0.0,3.45,Fashion Designers,0.0,3.45,0.0,0.0
+271023,Floral Designers,0.0,0.0,Floral Designers,0.0,0.0,0.0,0.0
+271024,Graphic Designers,0.0,1.27,Graphic Designers,0.0,1.28,0.0,-0.01
+271025,Interior Designers,0.0,0.0,Interior Designers,0.0,0.0,0.0,0.0
+271026,Merchandise Displayers and Window Trimmers,0.0,4.0,Merchandise Displayers and Window Trimmers,0.0,4.0,0.0,0.0
+271027,Set and Exhibit Designers,0.0,3.23,Set and Exhibit Designers,0.0,3.23,0.0,0.0
+272011,Actors,0.0,0.0,Actors,0.0,0.0,0.0,0.0
+272012,Producers and Directors,0.0,3.57,Producers and Directors,0.0,3.48,0.0,0.09
+272021,Athletes and Sports Competitors,0.0,0.0,Athletes and Sports Competitors,0.0,0.0,0.0,0.0
+272022,Coaches and Scouts,0.0,2.56,Coaches and Scouts,0.0,2.56,0.0,0.0
+272023,"Umpires, Referees, and Other Sports Officials",0.0,0.0,"Umpires, Referees, and Other Sports Officials",0.0,0.0,0.0,0.0
+272031,Dancers,0.0,0.0,Dancers,0.0,0.0,0.0,0.0
+272032,Choreographers,0.0,0.0,Choreographers,0.0,0.0,0.0,0.0
+272041,Music Directors and Composers,0.0,0.0,Music Directors and Composers,0.0,0.0,0.0,0.0
+272042,Musicians and Singers,0.0,0.0,Musicians and Singers,0.0,0.0,0.0,0.0
+272091,"Disc Jockeys, Except Radio",0.0,0.0,"Disc Jockeys, Except Radio",0.0,0.0,0.0,0.0
+273011,Broadcast Announcers and Radio Disc Jockeys,0.0,5.88,Broadcast Announcers and Radio Disc Jockeys,0.0,5.56,0.0,0.32
+273023,"News Analysts, Reporters, and Journalists",0.0,4.88,"News Analysts, Reporters, and Journalists",0.0,4.88,0.0,0.0
+273031,Public Relations Specialists,0.0,0.0,Public Relations Specialists,0.0,0.0,0.0,0.0
+273041,Editors,0.0,0.0,Editors,0.0,0.0,0.0,0.0
+273042,Technical Writers,0.0,5.63,Technical Writers,0.0,5.63,0.0,0.0
+273043,Writers and Authors,0.0,0.0,Writers and Authors,0.0,0.0,0.0,0.0
+273091,Interpreters and Translators,0.0,0.0,Interpreters and Translators,0.0,0.0,0.0,0.0
+273092,Court Reporters and Simultaneous Captioners,0.0,0.0,Court Reporters and Simultaneous Captioners,0.0,0.0,0.0,0.0
+274011,Audio and Video Technicians,0.0,0.0,Audio and Video Technicians,0.0,0.0,0.0,0.0
+274012,Broadcast Technicians,0.0,0.0,Broadcast Technicians,0.0,0.0,0.0,0.0
+274014,Sound Engineering Technicians,0.0,0.0,Sound Engineering Technicians,0.0,0.0,0.0,0.0
+274015,Lighting Technicians,0.0,0.0,Lighting Technicians,0.0,0.0,0.0,0.0
+274021,Photographers,0.0,0.0,Photographers,0.0,0.0,0.0,0.0
+274031,"Camera Operators, Television, Video, and Film",0.0,0.0,"Camera Operators, Television, Video, and Film",0.0,0.0,0.0,0.0
+274032,Film and Video Editors,0.0,0.0,Film and Video Editors,0.0,0.0,0.0,0.0
+291011,Chiropractors,0.0,0.0,Chiropractors,0.0,0.0,0.0,0.0
+291021,"Dentists, General",0.0,2.56,"Dentists, General",0.0,2.38,0.0,0.18
+291022,Oral and Maxillofacial Surgeons,0.0,0.0,Oral and Maxillofacial Surgeons,0.0,0.0,0.0,0.0
+291023,Orthodontists,0.0,0.0,Orthodontists,0.0,0.0,0.0,0.0
+291024,Prosthodontists,0.0,0.0,Prosthodontists,0.0,0.0,0.0,0.0
+291031,Dietitians and Nutritionists,0.0,3.12,Dietitians and Nutritionists,0.0,2.94,0.0,0.18
+291041,Optometrists,0.0,3.7,Optometrists,0.0,4.17,0.0,-0.47
+291051,Pharmacists,0.0,0.0,Pharmacists,0.0,0.0,0.0,0.0
+291071,Physician Assistants,0.0,0.0,Physician Assistants,0.0,0.0,0.0,0.0
+291081,Podiatrists,0.0,0.0,Podiatrists,0.0,0.0,0.0,0.0
+291122,Occupational Therapists,0.0,1.82,Occupational Therapists,0.0,1.69,0.0,0.13
+291123,Physical Therapists,0.0,0.0,Physical Therapists,0.0,0.0,0.0,0.0
+291124,Radiation Therapists,0.0,0.0,Radiation Therapists,0.0,0.0,0.0,0.0
+291125,Recreational Therapists,0.0,0.0,Recreational Therapists,0.0,0.0,0.0,0.0
+291126,Respiratory Therapists,0.0,0.0,Respiratory Therapists,0.0,0.0,0.0,0.0
+291127,Speech-Language Pathologists,0.0,0.0,Speech-Language Pathologists,0.0,0.0,0.0,0.0
+291128,Exercise Physiologists,0.0,0.0,Exercise Physiologists,0.0,0.0,0.0,0.0
+291129,Art Therapists,0.0,0.0,Art Therapists,0.0,0.0,0.0,0.0
+291131,Veterinarians,0.0,0.0,Veterinarians,0.0,0.0,0.0,0.0
+291141,Registered Nurses,0.0,2.25,Registered Nurses,0.0,2.22,0.0,0.03
+291151,Nurse Anesthetists,0.0,0.0,Nurse Anesthetists,0.0,0.0,0.0,0.0
+291161,Nurse Midwives,0.0,0.0,Nurse Midwives,0.0,0.0,0.0,0.0
+291171,Nurse Practitioners,0.0,0.0,Nurse Practitioners,0.0,0.0,0.0,0.0
+291181,Audiologists,0.0,0.0,Audiologists,0.0,0.0,0.0,0.0
+291211,Anesthesiologists,0.0,0.0,Anesthesiologists,0.0,0.0,0.0,0.0
+291212,Cardiologists,0.0,0.0,Cardiologists,0.0,0.0,0.0,0.0
+291213,Dermatologists,0.0,0.0,Dermatologists,0.0,0.0,0.0,0.0
+291214,Emergency Medicine Physicians,0.0,0.0,Emergency Medicine Physicians,0.0,0.0,0.0,0.0
+291215,Family Medicine Physicians,0.0,0.0,Family Medicine Physicians,0.0,0.0,0.0,0.0
+291216,General Internal Medicine Physicians,0.0,0.0,General Internal Medicine Physicians,0.0,0.0,0.0,0.0
+291217,Neurologists,0.0,0.0,Neurologists,0.0,0.0,0.0,0.0
+291218,Obstetricians and Gynecologists,0.0,0.0,Obstetricians and Gynecologists,0.0,0.0,0.0,0.0
+291221,"Pediatricians, General",0.0,0.0,"Pediatricians, General",0.0,0.0,0.0,0.0
+291222,"Physicians, Pathologists",0.0,0.0,"Physicians, Pathologists",0.0,0.0,0.0,0.0
+291223,Psychiatrists,0.0,0.0,Psychiatrists,0.0,0.0,0.0,0.0
+291224,Radiologists,0.0,0.0,Radiologists,0.0,0.0,0.0,0.0
+291229,Allergists and Immunologists,0.0,4.65,Allergists and Immunologists,0.0,4.55,0.0,0.1
+291241,"Ophthalmologists, Except Pediatric",0.0,0.0,"Ophthalmologists, Except Pediatric",0.0,0.0,0.0,0.0
+291242,"Orthopedic Surgeons, Except Pediatric",0.0,0.0,"Orthopedic Surgeons, Except Pediatric",0.0,0.0,0.0,0.0
+291243,Pediatric Surgeons,0.0,0.0,Pediatric Surgeons,0.0,0.0,0.0,0.0
+291291,Acupuncturists,0.0,0.0,Acupuncturists,0.0,0.0,0.0,0.0
+291292,Dental Hygienists,0.0,0.0,Dental Hygienists,0.0,0.0,0.0,0.0
+291299,Naturopathic Physicians,0.0,0.0,Naturopathic Physicians,0.0,0.0,0.0,0.0
+292011,Medical and Clinical Laboratory Technologists,0.0,1.23,Medical and Clinical Laboratory Technologists,0.0,1.16,0.0,0.07
+292012,Medical and Clinical Laboratory Technicians,0.0,0.0,Medical and Clinical Laboratory Technicians,0.0,0.0,0.0,0.0
+292031,Cardiovascular Technologists and Technicians,0.0,0.0,Cardiovascular Technologists and Technicians,0.0,0.0,0.0,0.0
+292032,Diagnostic Medical Sonographers,0.0,0.0,Diagnostic Medical Sonographers,0.0,0.0,0.0,0.0
+292033,Nuclear Medicine Technologists,0.0,0.0,Nuclear Medicine Technologists,0.0,0.0,0.0,0.0
+292034,Radiologic Technologists and Technicians,0.0,0.0,Radiologic Technologists and Technicians,0.0,0.0,0.0,0.0
+292035,Magnetic Resonance Imaging Technologists,0.0,0.0,Magnetic Resonance Imaging Technologists,0.0,0.0,0.0,0.0
+292036,Medical Dosimetrists,0.0,0.0,Medical Dosimetrists,0.0,0.0,0.0,0.0
+292042,Emergency Medical Technicians,0.0,0.0,Emergency Medical Technicians,0.0,0.0,0.0,0.0
+292043,Paramedics,0.0,0.0,Paramedics,0.0,0.0,0.0,0.0
+292051,Dietetic Technicians,0.0,0.0,Dietetic Technicians,0.0,0.0,0.0,0.0
+292052,Pharmacy Technicians,0.0,0.0,Pharmacy Technicians,0.0,0.0,0.0,0.0
+292053,Psychiatric Technicians,0.0,0.0,Psychiatric Technicians,0.0,0.0,0.0,0.0
+292055,Surgical Technologists,0.0,0.0,Surgical Technologists,0.0,0.0,0.0,0.0
+292056,Veterinary Technologists and Technicians,0.0,0.0,Veterinary Technologists and Technicians,0.0,0.0,0.0,0.0
+292057,Ophthalmic Medical Technicians,0.0,0.0,Ophthalmic Medical Technicians,0.0,0.0,0.0,0.0
+292061,Licensed Practical and Licensed Vocational Nurses,0.0,0.0,Licensed Practical and Licensed Vocational Nurses,0.0,0.0,0.0,0.0
+292072,Medical Records Specialists,0.0,4.59,Medical Records Specialists,0.0,4.5,0.0,0.09
+292081,"Opticians, Dispensing",0.0,0.0,"Opticians, Dispensing",0.0,0.0,0.0,0.0
+292091,Orthotists and Prosthetists,0.0,0.0,Orthotists and Prosthetists,0.0,0.0,0.0,0.0
+292092,Hearing Aid Specialists,0.0,0.0,Hearing Aid Specialists,0.0,0.0,0.0,0.0
+292099,Neurodiagnostic Technologists,0.0,0.0,Neurodiagnostic Technologists,0.0,0.0,0.0,0.0
+299021,Health Information Technologists and Medical Registrars,0.0,4.59,Health Information Technologists and Medical Registrars,0.0,4.5,0.0,0.09
+299091,Athletic Trainers,0.0,0.0,Athletic Trainers,0.0,0.0,0.0,0.0
+299092,Genetic Counselors,0.0,0.0,Genetic Counselors,0.0,0.0,0.0,0.0
+299093,Surgical Assistants,0.0,0.0,Surgical Assistants,0.0,0.0,0.0,0.0
+299099,Midwives,0.0,0.0,Midwives,0.0,0.0,0.0,0.0
+311121,Home Health Aides,0.0,5.26,Home Health Aides,0.0,4.76,0.0,0.5
+311122,Personal Care Aides,0.0,0.0,Personal Care Aides,0.0,0.0,0.0,0.0
+311131,Nursing Assistants,0.0,5.56,Nursing Assistants,0.0,5.56,0.0,0.0
+311132,Orderlies,0.0,0.0,Orderlies,0.0,0.0,0.0,0.0
+311133,Psychiatric Aides,0.0,0.0,Psychiatric Aides,0.0,0.0,0.0,0.0
+312011,Occupational Therapy Assistants,0.0,0.0,Occupational Therapy Assistants,0.0,0.0,0.0,0.0
+312012,Occupational Therapy Aides,0.0,0.0,Occupational Therapy Aides,0.0,0.0,0.0,0.0
+312021,Physical Therapist Assistants,0.0,0.0,Physical Therapist Assistants,0.0,0.0,0.0,0.0
+312022,Physical Therapist Aides,0.0,0.0,Physical Therapist Aides,0.0,0.0,0.0,0.0
+319011,Massage Therapists,0.0,0.0,Massage Therapists,0.0,0.0,0.0,0.0
+319091,Dental Assistants,0.0,0.0,Dental Assistants,0.0,0.0,0.0,0.0
+319092,Medical Assistants,0.0,0.0,Medical Assistants,0.0,0.0,0.0,0.0
+319093,Medical Equipment Preparers,0.0,0.0,Medical Equipment Preparers,0.0,0.0,0.0,0.0
+319094,Medical Transcriptionists,0.0,0.0,Medical Transcriptionists,0.0,0.0,0.0,0.0
+319095,Pharmacy Aides,0.0,0.0,Pharmacy Aides,0.0,0.0,0.0,0.0
+319096,Veterinary Assistants and Laboratory Animal Caretakers,0.0,0.0,Veterinary Assistants and Laboratory Animal Caretakers,0.0,0.0,0.0,0.0
+319097,Phlebotomists,0.0,0.0,Phlebotomists,0.0,0.0,0.0,0.0
+319099,Speech-Language Pathology Assistants,0.0,0.0,Speech-Language Pathology Assistants,0.0,0.0,0.0,0.0
+331011,First-Line Supervisors of Correctional Officers,0.0,0.0,First-Line Supervisors of Correctional Officers,0.0,0.0,0.0,0.0
+331012,First-Line Supervisors of Police and Detectives,0.0,0.0,First-Line Supervisors of Police and Detectives,0.0,0.0,0.0,0.0
+331021,First-Line Supervisors of Firefighting and Prevention Workers,0.0,0.0,First-Line Supervisors of Firefighting and Prevention Workers,0.0,0.0,0.0,0.0
+331091,First-Line Supervisors of Security Workers,0.0,0.0,First-Line Supervisors of Security Workers,0.0,0.0,0.0,0.0
+332011,Firefighters,0.0,0.0,Firefighters,0.0,0.0,0.0,0.0
+332021,Fire Inspectors and Investigators,0.0,0.0,Fire Inspectors and Investigators,0.0,0.0,0.0,0.0
+332022,Forest Fire Inspectors and Prevention Specialists,0.0,11.11,Forest Fire Inspectors and Prevention Specialists,0.0,10.71,0.0,0.4
+333011,Bailiffs,0.0,0.0,Bailiffs,0.0,0.0,0.0,0.0
+333012,Correctional Officers and Jailers,0.0,0.0,Correctional Officers and Jailers,0.0,0.0,0.0,0.0
+333031,Fish and Game Wardens,0.0,0.0,Fish and Game Wardens,0.0,0.0,0.0,0.0
+333041,Parking Enforcement Workers,0.0,0.0,Parking Enforcement Workers,0.0,0.0,0.0,0.0
+333051,Police and Sheriff's Patrol Officers,0.0,0.0,Police and Sheriff's Patrol Officers,0.0,0.0,0.0,0.0
+333052,Transit and Railroad Police,0.0,0.0,Transit and Railroad Police,0.0,0.0,0.0,0.0
+339011,Animal Control Workers,0.0,0.0,Animal Control Workers,0.0,0.0,0.0,0.0
+339021,Private Detectives and Investigators,0.0,0.0,Private Detectives and Investigators,0.0,0.0,0.0,0.0
+339031,Gambling Surveillance Officers and Gambling Investigators,0.0,0.0,Gambling Surveillance Officers and Gambling Investigators,0.0,0.0,0.0,0.0
+339032,Security Guards,0.0,0.0,Security Guards,0.0,0.0,0.0,0.0
+339091,Crossing Guards and Flaggers,0.0,0.0,Crossing Guards and Flaggers,0.0,0.0,0.0,0.0
+339092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.0,0.0,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.0,0.0,0.0,0.0
+339093,Transportation Security Screeners,0.0,0.0,Transportation Security Screeners,0.0,0.0,0.0,0.0
+339094,School Bus Monitors,0.0,0.0,School Bus Monitors,0.0,0.0,0.0,0.0
+339099,Retail Loss Prevention Specialists,0.0,6.67,Retail Loss Prevention Specialists,0.0,6.67,0.0,0.0
+351011,Chefs and Head Cooks,0.0,0.0,Chefs and Head Cooks,0.0,0.0,0.0,0.0
+351012,First-Line Supervisors of Food Preparation and Serving Workers,0.0,0.0,First-Line Supervisors of Food Preparation and Serving Workers,0.0,0.0,0.0,0.0
+352011,"Cooks, Fast Food",0.0,0.0,"Cooks, Fast Food",0.0,0.0,0.0,0.0
+352012,"Cooks, Institution and Cafeteria",0.0,0.0,"Cooks, Institution and Cafeteria",0.0,0.0,0.0,0.0
+352013,"Cooks, Private Household",0.0,0.0,"Cooks, Private Household",0.0,0.0,0.0,0.0
+352014,"Cooks, Restaurant",0.0,0.0,"Cooks, Restaurant",0.0,0.0,0.0,0.0
+352015,"Cooks, Short Order",0.0,0.0,"Cooks, Short Order",0.0,0.0,0.0,0.0
+352021,Food Preparation Workers,0.0,0.0,Food Preparation Workers,0.0,0.0,0.0,0.0
+353011,Bartenders,0.0,0.0,Bartenders,0.0,0.0,0.0,0.0
+353023,Fast Food and Counter Workers,0.0,0.0,Fast Food and Counter Workers,0.0,0.0,0.0,0.0
+353031,Waiters and Waitresses,0.0,0.0,Waiters and Waitresses,0.0,0.0,0.0,0.0
+353041,"Food Servers, Nonrestaurant",0.0,0.0,"Food Servers, Nonrestaurant",0.0,0.0,0.0,0.0
+359011,Dining Room and Cafeteria Attendants and Bartender Helpers,0.0,0.0,Dining Room and Cafeteria Attendants and Bartender Helpers,0.0,0.0,0.0,0.0
+359021,Dishwashers,0.0,0.0,Dishwashers,0.0,0.0,0.0,0.0
+359031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.0,0.0,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.0,0.0,0.0,0.0
+371011,First-Line Supervisors of Housekeeping and Janitorial Workers,0.0,0.0,First-Line Supervisors of Housekeeping and Janitorial Workers,0.0,0.0,0.0,0.0
+371012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.0,0.0,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.0,0.0,0.0,0.0
+372011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.0,0.0,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.0,0.0,0.0,0.0
+372012,Maids and Housekeeping Cleaners,0.0,0.0,Maids and Housekeeping Cleaners,0.0,0.0,0.0,0.0
+372021,Pest Control Workers,0.0,0.0,Pest Control Workers,0.0,0.0,0.0,0.0
+373011,Landscaping and Groundskeeping Workers,0.0,0.0,Landscaping and Groundskeeping Workers,0.0,0.0,0.0,0.0
+373012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.0,0.0,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.0,0.0,0.0,0.0
+373013,Tree Trimmers and Pruners,0.0,0.0,Tree Trimmers and Pruners,0.0,0.0,0.0,0.0
+391013,First-Line Supervisors of Gambling Services Workers,0.0,0.0,First-Line Supervisors of Gambling Services Workers,0.0,0.0,0.0,0.0
+391014,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",0.0,0.0,"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",0.0,0.0,0.0,0.0
+391022,First-Line Supervisors of Personal Service Workers,0.0,0.0,First-Line Supervisors of Personal Service Workers,0.0,0.0,0.0,0.0
+392011,Animal Trainers,0.0,0.0,Animal Trainers,0.0,0.0,0.0,0.0
+392021,Animal Caretakers,0.0,0.0,Animal Caretakers,0.0,0.0,0.0,0.0
+393011,Gambling Dealers,0.0,33.33,Gambling Dealers,0.0,33.33,0.0,0.0
+393012,Gambling and Sports Book Writers and Runners,0.0,0.0,Gambling and Sports Book Writers and Runners,0.0,0.0,0.0,0.0
+393021,Motion Picture Projectionists,0.0,0.0,Motion Picture Projectionists,0.0,0.0,0.0,0.0
+393031,"Ushers, Lobby Attendants, and Ticket Takers",0.0,0.0,"Ushers, Lobby Attendants, and Ticket Takers",0.0,0.0,0.0,0.0
+393091,Amusement and Recreation Attendants,0.0,0.0,Amusement and Recreation Attendants,0.0,0.0,0.0,0.0
+393092,Costume Attendants,0.0,0.0,Costume Attendants,0.0,0.0,0.0,0.0
+393093,"Locker Room, Coatroom, and Dressing Room Attendants",0.0,0.0,"Locker Room, Coatroom, and Dressing Room Attendants",0.0,0.0,0.0,0.0
+394011,Embalmers,0.0,0.0,Embalmers,0.0,0.0,0.0,0.0
+394012,Crematory Operators,0.0,0.0,Crematory Operators,0.0,0.0,0.0,0.0
+394021,Funeral Attendants,0.0,0.0,Funeral Attendants,0.0,0.0,0.0,0.0
+394031,"Morticians, Undertakers, and Funeral Arrangers",0.0,0.0,"Morticians, Undertakers, and Funeral Arrangers",0.0,0.0,0.0,0.0
+395011,Barbers,0.0,0.0,Barbers,0.0,0.0,0.0,0.0
+395012,"Hairdressers, Hairstylists, and Cosmetologists",0.0,0.0,"Hairdressers, Hairstylists, and Cosmetologists",0.0,0.0,0.0,0.0
+395091,"Makeup Artists, Theatrical and Performance",0.0,0.0,"Makeup Artists, Theatrical and Performance",0.0,0.0,0.0,0.0
+395092,Manicurists and Pedicurists,0.0,0.0,Manicurists and Pedicurists,0.0,0.0,0.0,0.0
+395093,Shampooers,0.0,0.0,Shampooers,0.0,0.0,0.0,0.0
+395094,Skincare Specialists,0.0,0.0,Skincare Specialists,0.0,0.0,0.0,0.0
+396011,Baggage Porters and Bellhops,0.0,0.0,Baggage Porters and Bellhops,0.0,0.0,0.0,0.0
+396012,Concierges,0.0,0.0,Concierges,0.0,0.0,0.0,0.0
+397011,Tour Guides and Escorts,0.0,0.0,Tour Guides and Escorts,0.0,0.0,0.0,0.0
+397012,Travel Guides,0.0,20.0,Travel Guides,0.0,18.75,0.0,1.25
+399011,Childcare Workers,0.0,0.0,Childcare Workers,0.0,0.0,0.0,0.0
+399031,Exercise Trainers and Group Fitness Instructors,0.0,0.0,Exercise Trainers and Group Fitness Instructors,0.0,0.0,0.0,0.0
+399032,Recreation Workers,0.0,0.0,Recreation Workers,0.0,0.0,0.0,0.0
+399041,Residential Advisors,0.0,0.0,Residential Advisors,0.0,0.0,0.0,0.0
+411011,First-Line Supervisors of Retail Sales Workers,0.0,1.87,First-Line Supervisors of Retail Sales Workers,0.0,1.82,0.0,0.05
+411012,First-Line Supervisors of Non-Retail Sales Workers,0.0,0.0,First-Line Supervisors of Non-Retail Sales Workers,0.0,0.0,0.0,0.0
+412011,Cashiers,0.0,0.0,Cashiers,0.0,0.0,0.0,0.0
+412012,Gambling Change Persons and Booth Cashiers,0.0,0.0,Gambling Change Persons and Booth Cashiers,0.0,0.0,0.0,0.0
+412021,Counter and Rental Clerks,0.0,0.0,Counter and Rental Clerks,0.0,0.0,0.0,0.0
+412022,Parts Salespersons,0.0,0.0,Parts Salespersons,0.0,0.0,0.0,0.0
+412031,Retail Salespersons,0.0,0.0,Retail Salespersons,0.0,0.0,0.0,0.0
+413011,Advertising Sales Agents,0.0,0.0,Advertising Sales Agents,0.0,0.0,0.0,0.0
+413021,Insurance Sales Agents,0.0,0.0,Insurance Sales Agents,0.0,0.0,0.0,0.0
+413031,"Securities, Commodities, and Financial Services Sales Agents",0.0,2.9,"Securities, Commodities, and Financial Services Sales Agents",0.0,2.74,0.0,0.16
+413041,Travel Agents,0.0,0.0,Travel Agents,0.0,0.0,0.0,0.0
+413091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0.0,0.0,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",0.0,0.0,0.0,0.0
+414011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.0,4.41,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.0,4.17,0.0,0.24
+414012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.0,1.45,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.0,1.42,0.0,0.03
+419011,Demonstrators and Product Promoters,0.0,0.0,Demonstrators and Product Promoters,0.0,0.0,0.0,0.0
+419012,Models,0.0,0.0,Models,0.0,0.0,0.0,0.0
+419021,Real Estate Brokers,0.0,0.0,Real Estate Brokers,0.0,0.0,0.0,0.0
+419022,Real Estate Sales Agents,0.0,0.0,Real Estate Sales Agents,0.0,0.0,0.0,0.0
+419031,Sales Engineers,0.0,6.32,Sales Engineers,0.0,6.19,0.0,0.13
+419041,Telemarketers,0.0,0.0,Telemarketers,0.0,0.0,0.0,0.0
+419091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.0,0.0,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.0,0.0,0.0,0.0
+431011,First-Line Supervisors of Office and Administrative Support Workers,0.0,1.14,First-Line Supervisors of Office and Administrative Support Workers,0.0,1.12,0.0,0.02
+432011,"Switchboard Operators, Including Answering Service",0.0,0.0,"Switchboard Operators, Including Answering Service",0.0,0.0,0.0,0.0
+432021,Telephone Operators,0.0,0.0,Telephone Operators,0.0,0.0,0.0,0.0
+433011,Bill and Account Collectors,0.0,0.0,Bill and Account Collectors,0.0,0.0,0.0,0.0
+433021,Billing and Posting Clerks,0.0,0.0,Billing and Posting Clerks,0.0,0.0,0.0,0.0
+433031,"Bookkeeping, Accounting, and Auditing Clerks",0.0,0.0,"Bookkeeping, Accounting, and Auditing Clerks",0.0,0.0,0.0,0.0
+433041,Gambling Cage Workers,0.0,0.0,Gambling Cage Workers,0.0,0.0,0.0,0.0
+433051,Payroll and Timekeeping Clerks,0.0,0.0,Payroll and Timekeeping Clerks,0.0,0.0,0.0,0.0
+433061,Procurement Clerks,0.0,0.0,Procurement Clerks,0.0,0.0,0.0,0.0
+433071,Tellers,0.0,0.0,Tellers,0.0,0.0,0.0,0.0
+434011,Brokerage Clerks,0.0,3.7,Brokerage Clerks,0.0,3.23,0.0,0.47
+434021,Correspondence Clerks,0.0,0.0,Correspondence Clerks,0.0,0.0,0.0,0.0
+434031,"Court, Municipal, and License Clerks",0.0,0.0,"Court, Municipal, and License Clerks",0.0,0.0,0.0,0.0
+434041,"Credit Authorizers, Checkers, and Clerks",0.0,11.76,"Credit Authorizers, Checkers, and Clerks",0.0,11.11,0.0,0.65
+434051,Customer Service Representatives,0.0,0.0,Customer Service Representatives,0.0,0.0,0.0,0.0
+434061,"Eligibility Interviewers, Government Programs",0.0,0.0,"Eligibility Interviewers, Government Programs",0.0,0.0,0.0,0.0
+434071,File Clerks,0.0,0.0,File Clerks,0.0,0.0,0.0,0.0
+434081,"Hotel, Motel, and Resort Desk Clerks",0.0,0.0,"Hotel, Motel, and Resort Desk Clerks",0.0,0.0,0.0,0.0
+434111,"Interviewers, Except Eligibility and Loan",0.0,4.0,"Interviewers, Except Eligibility and Loan",0.0,4.17,0.0,-0.17
+434121,"Library Assistants, Clerical",0.0,0.0,"Library Assistants, Clerical",0.0,0.0,0.0,0.0
+434131,Loan Interviewers and Clerks,0.0,0.0,Loan Interviewers and Clerks,0.0,0.0,0.0,0.0
+434141,New Accounts Clerks,0.0,0.0,New Accounts Clerks,0.0,0.0,0.0,0.0
+434151,Order Clerks,0.0,0.0,Order Clerks,0.0,0.0,0.0,0.0
+434161,"Human Resources Assistants, Except Payroll and Timekeeping",0.0,0.0,"Human Resources Assistants, Except Payroll and Timekeeping",0.0,0.0,0.0,0.0
+434171,Receptionists and Information Clerks,0.0,0.0,Receptionists and Information Clerks,0.0,0.0,0.0,0.0
+434181,Reservation and Transportation Ticket Agents and Travel Clerks,0.0,0.0,Reservation and Transportation Ticket Agents and Travel Clerks,0.0,0.0,0.0,0.0
+435011,Cargo and Freight Agents,0.0,0.0,Cargo and Freight Agents,0.0,0.0,0.0,0.0
+435021,Couriers and Messengers,0.0,0.0,Couriers and Messengers,0.0,0.0,0.0,0.0
+435031,Public Safety Telecommunicators,0.0,0.0,Public Safety Telecommunicators,0.0,0.0,0.0,0.0
+435032,"Dispatchers, Except Police, Fire, and Ambulance",0.0,0.0,"Dispatchers, Except Police, Fire, and Ambulance",0.0,0.0,0.0,0.0
+435041,"Meter Readers, Utilities",0.0,0.0,"Meter Readers, Utilities",0.0,0.0,0.0,0.0
+435051,Postal Service Clerks,0.0,0.0,Postal Service Clerks,0.0,0.0,0.0,0.0
+435052,Postal Service Mail Carriers,0.0,0.0,Postal Service Mail Carriers,0.0,0.0,0.0,0.0
+435053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.0,0.0,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.0,0.0,0.0,0.0
+435061,"Production, Planning, and Expediting Clerks",0.0,1.06,"Production, Planning, and Expediting Clerks",0.0,1.06,0.0,0.0
+435071,"Shipping, Receiving, and Inventory Clerks",0.0,0.0,"Shipping, Receiving, and Inventory Clerks",0.0,0.0,0.0,0.0
+435111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.0,0.0,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.0,0.0,0.0,0.0
+436011,Executive Secretaries and Executive Administrative Assistants,0.0,0.0,Executive Secretaries and Executive Administrative Assistants,0.0,0.0,0.0,0.0
+436012,Legal Secretaries and Administrative Assistants,0.0,0.0,Legal Secretaries and Administrative Assistants,0.0,0.0,0.0,0.0
+436013,Medical Secretaries and Administrative Assistants,0.0,0.0,Medical Secretaries and Administrative Assistants,0.0,0.0,0.0,0.0
+436014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.0,3.1,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.0,3.03,0.0,0.07
+439021,Data Entry Keyers,0.0,0.0,Data Entry Keyers,0.0,0.0,0.0,0.0
+439022,Word Processors and Typists,0.0,0.0,Word Processors and Typists,0.0,0.0,0.0,0.0
+439031,Desktop Publishers,0.0,1.12,Desktop Publishers,0.0,1.04,0.0,0.08
+439041,Insurance Claims and Policy Processing Clerks,0.0,0.0,Insurance Claims and Policy Processing Clerks,0.0,0.0,0.0,0.0
+439051,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.0,0.0,"Mail Clerks and Mail Machine Operators, Except Postal Service",0.0,0.0,0.0,0.0
+439061,"Office Clerks, General",0.0,0.0,"Office Clerks, General",0.0,0.0,0.0,0.0
+439071,"Office Machine Operators, Except Computer",0.0,0.0,"Office Machine Operators, Except Computer",0.0,0.0,0.0,0.0
+439081,Proofreaders and Copy Markers,0.0,0.0,Proofreaders and Copy Markers,0.0,0.0,0.0,0.0
+439111,Statistical Assistants,0.0,15.56,Statistical Assistants,0.0,15.22,0.0,0.34
+451011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,0.0,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.0,0.0,0.0,0.0
+452011,Agricultural Inspectors,0.0,0.0,Agricultural Inspectors,0.0,0.0,0.0,0.0
+452021,Animal Breeders,0.0,0.0,Animal Breeders,0.0,0.0,0.0,0.0
+452041,"Graders and Sorters, Agricultural Products",0.0,0.0,"Graders and Sorters, Agricultural Products",0.0,0.0,0.0,0.0
+452091,Agricultural Equipment Operators,0.0,0.0,Agricultural Equipment Operators,0.0,0.0,0.0,0.0
+452092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0,0.0,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",0.0,0.0,0.0,0.0
+452093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.0,0.0,"Farmworkers, Farm, Ranch, and Aquacultural Animals",0.0,0.0,0.0,0.0
+453031,Fishing and Hunting Workers,0.0,0.0,Fishing and Hunting Workers,0.0,0.0,0.0,0.0
+454011,Forest and Conservation Workers,0.0,0.0,Forest and Conservation Workers,0.0,0.0,0.0,0.0
+454021,Fallers,0.0,0.0,Fallers,0.0,0.0,0.0,0.0
+454022,Logging Equipment Operators,0.0,0.0,Logging Equipment Operators,0.0,0.0,0.0,0.0
+454023,Log Graders and Scalers,0.0,0.0,Log Graders and Scalers,0.0,0.0,0.0,0.0
+471011,First-Line Supervisors of Construction Trades and Extraction Workers,0.0,0.0,First-Line Supervisors of Construction Trades and Extraction Workers,0.0,0.0,0.0,0.0
+472011,Boilermakers,0.0,0.0,Boilermakers,0.0,0.0,0.0,0.0
+472021,Brickmasons and Blockmasons,0.0,0.0,Brickmasons and Blockmasons,0.0,0.0,0.0,0.0
+472022,Stonemasons,0.0,0.0,Stonemasons,0.0,0.0,0.0,0.0
+472031,Carpenters,0.0,0.0,Carpenters,0.0,0.0,0.0,0.0
+472041,Carpet Installers,0.0,0.0,Carpet Installers,0.0,0.0,0.0,0.0
+472042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.0,0.0,"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.0,0.0,0.0,0.0
+472043,Floor Sanders and Finishers,0.0,0.0,Floor Sanders and Finishers,0.0,0.0,0.0,0.0
+472044,Tile and Stone Setters,0.0,0.0,Tile and Stone Setters,0.0,0.0,0.0,0.0
+472051,Cement Masons and Concrete Finishers,0.0,0.0,Cement Masons and Concrete Finishers,0.0,0.0,0.0,0.0
+472053,Terrazzo Workers and Finishers,0.0,0.0,Terrazzo Workers and Finishers,0.0,0.0,0.0,0.0
+472061,Construction Laborers,0.0,0.0,Construction Laborers,0.0,0.0,0.0,0.0
+472071,"Paving, Surfacing, and Tamping Equipment Operators",0.0,0.0,"Paving, Surfacing, and Tamping Equipment Operators",0.0,0.0,0.0,0.0
+472072,Pile Driver Operators,0.0,0.0,Pile Driver Operators,0.0,0.0,0.0,0.0
+472073,Operating Engineers and Other Construction Equipment Operators,0.0,0.0,Operating Engineers and Other Construction Equipment Operators,0.0,0.0,0.0,0.0
+472081,Drywall and Ceiling Tile Installers,0.0,0.0,Drywall and Ceiling Tile Installers,0.0,0.0,0.0,0.0
+472082,Tapers,0.0,0.0,Tapers,0.0,0.0,0.0,0.0
+472111,Electricians,0.0,0.0,Electricians,0.0,0.0,0.0,0.0
+472121,Glaziers,0.0,0.0,Glaziers,0.0,0.0,0.0,0.0
+472131,"Insulation Workers, Floor, Ceiling, and Wall",0.0,0.0,"Insulation Workers, Floor, Ceiling, and Wall",0.0,0.0,0.0,0.0
+472132,"Insulation Workers, Mechanical",0.0,0.0,"Insulation Workers, Mechanical",0.0,0.0,0.0,0.0
+472141,"Painters, Construction and Maintenance",0.0,0.0,"Painters, Construction and Maintenance",0.0,0.0,0.0,0.0
+472142,Paperhangers,0.0,0.0,Paperhangers,0.0,0.0,0.0,0.0
+472151,Pipelayers,0.0,0.0,Pipelayers,0.0,0.0,0.0,0.0
+472152,"Plumbers, Pipefitters, and Steamfitters",0.0,0.0,"Plumbers, Pipefitters, and Steamfitters",0.0,0.0,0.0,0.0
+472161,Plasterers and Stucco Masons,0.0,0.0,Plasterers and Stucco Masons,0.0,0.0,0.0,0.0
+472171,Reinforcing Iron and Rebar Workers,0.0,0.0,Reinforcing Iron and Rebar Workers,0.0,0.0,0.0,0.0
+472181,Roofers,0.0,0.0,Roofers,0.0,0.0,0.0,0.0
+472211,Sheet Metal Workers,0.0,0.0,Sheet Metal Workers,0.0,0.0,0.0,0.0
+472221,Structural Iron and Steel Workers,0.0,0.0,Structural Iron and Steel Workers,0.0,0.0,0.0,0.0
+472231,Solar Photovoltaic Installers,0.0,0.0,Solar Photovoltaic Installers,0.0,0.0,0.0,0.0
+473011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.0,0.0,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",0.0,0.0,0.0,0.0
+473012,Helpers--Carpenters,0.0,0.0,Helpers--Carpenters,0.0,0.0,0.0,0.0
+473013,Helpers--Electricians,0.0,0.0,Helpers--Electricians,0.0,0.0,0.0,0.0
+473014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.0,0.0,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",0.0,0.0,0.0,0.0
+473015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.0,0.0,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.0,0.0,0.0,0.0
+473016,Helpers--Roofers,0.0,0.0,Helpers--Roofers,0.0,0.0,0.0,0.0
+474011,Construction and Building Inspectors,0.0,4.88,Construction and Building Inspectors,0.0,4.55,0.0,0.33
+474021,Elevator and Escalator Installers and Repairers,0.0,0.0,Elevator and Escalator Installers and Repairers,0.0,0.0,0.0,0.0
+474031,Fence Erectors,0.0,0.0,Fence Erectors,0.0,0.0,0.0,0.0
+474041,Hazardous Materials Removal Workers,0.0,0.0,Hazardous Materials Removal Workers,0.0,0.0,0.0,0.0
+474051,Highway Maintenance Workers,0.0,0.0,Highway Maintenance Workers,0.0,0.0,0.0,0.0
+474061,Rail-Track Laying and Maintenance Equipment Operators,0.0,0.0,Rail-Track Laying and Maintenance Equipment Operators,0.0,0.0,0.0,0.0
+474071,Septic Tank Servicers and Sewer Pipe Cleaners,0.0,0.0,Septic Tank Servicers and Sewer Pipe Cleaners,0.0,0.0,0.0,0.0
+474091,Segmental Pavers,0.0,0.0,Segmental Pavers,0.0,0.0,0.0,0.0
+474099,Weatherization Installers and Technicians,0.0,0.0,Weatherization Installers and Technicians,0.0,0.0,0.0,0.0
+475011,"Derrick Operators, Oil and Gas",0.0,0.0,"Derrick Operators, Oil and Gas",0.0,0.0,0.0,0.0
+475012,"Rotary Drill Operators, Oil and Gas",0.0,16.67,"Rotary Drill Operators, Oil and Gas",0.0,16.67,0.0,0.0
+475013,"Service Unit Operators, Oil and Gas",0.0,0.0,"Service Unit Operators, Oil and Gas",0.0,0.0,0.0,0.0
+475022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.0,0.0,"Excavating and Loading Machine and Dragline Operators, Surface Mining",0.0,0.0,0.0,0.0
+475023,"Earth Drillers, Except Oil and Gas",0.0,0.0,"Earth Drillers, Except Oil and Gas",0.0,0.0,0.0,0.0
+475032,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.0,0.0,"Explosives Workers, Ordnance Handling Experts, and Blasters",0.0,0.0,0.0,0.0
+475041,Continuous Mining Machine Operators,0.0,0.0,Continuous Mining Machine Operators,0.0,0.0,0.0,0.0
+475043,"Roof Bolters, Mining",0.0,0.0,"Roof Bolters, Mining",0.0,0.0,0.0,0.0
+475044,"Loading and Moving Machine Operators, Underground Mining",0.0,0.0,"Loading and Moving Machine Operators, Underground Mining",0.0,0.0,0.0,0.0
+475051,"Rock Splitters, Quarry",0.0,0.0,"Rock Splitters, Quarry",0.0,0.0,0.0,0.0
+475071,"Roustabouts, Oil and Gas",0.0,0.0,"Roustabouts, Oil and Gas",0.0,0.0,0.0,0.0
+475081,Helpers--Extraction Workers,0.0,0.0,Helpers--Extraction Workers,0.0,0.0,0.0,0.0
+491011,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.0,0.0,"First-Line Supervisors of Mechanics, Installers, and Repairers",0.0,0.0,0.0,0.0
+492011,"Computer, Automated Teller, and Office Machine Repairers",0.0,2.44,"Computer, Automated Teller, and Office Machine Repairers",0.0,2.22,0.0,0.22
+492021,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.0,0.0,"Radio, Cellular, and Tower Equipment Installers and Repairers",0.0,0.0,0.0,0.0
+492022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.0,0.0,"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.0,0.0,0.0,0.0
+492091,Avionics Technicians,0.0,0.0,Avionics Technicians,0.0,0.0,0.0,0.0
+492092,"Electric Motor, Power Tool, and Related Repairers",0.0,8.33,"Electric Motor, Power Tool, and Related Repairers",0.0,8.33,0.0,0.0
+492093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.0,0.0,"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.0,0.0,0.0,0.0
+492094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.0,0.0,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",0.0,0.0,0.0,0.0
+492095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.0,0.0,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",0.0,0.0,0.0,0.0
+492096,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.0,0.0,"Electronic Equipment Installers and Repairers, Motor Vehicles",0.0,0.0,0.0,0.0
+492097,Audiovisual Equipment Installers and Repairers,0.0,0.0,Audiovisual Equipment Installers and Repairers,0.0,0.0,0.0,0.0
+492098,Security and Fire Alarm Systems Installers,0.0,0.0,Security and Fire Alarm Systems Installers,0.0,0.0,0.0,0.0
+493011,Aircraft Mechanics and Service Technicians,0.0,0.0,Aircraft Mechanics and Service Technicians,0.0,0.0,0.0,0.0
+493021,Automotive Body and Related Repairers,0.0,0.0,Automotive Body and Related Repairers,0.0,0.0,0.0,0.0
+493022,Automotive Glass Installers and Repairers,0.0,0.0,Automotive Glass Installers and Repairers,0.0,0.0,0.0,0.0
+493023,Automotive Service Technicians and Mechanics,0.0,0.0,Automotive Service Technicians and Mechanics,0.0,0.0,0.0,0.0
+493031,Bus and Truck Mechanics and Diesel Engine Specialists,0.0,0.0,Bus and Truck Mechanics and Diesel Engine Specialists,0.0,0.0,0.0,0.0
+493041,Farm Equipment Mechanics and Service Technicians,0.0,0.0,Farm Equipment Mechanics and Service Technicians,0.0,0.0,0.0,0.0
+493042,"Mobile Heavy Equipment Mechanics, Except Engines",0.0,0.0,"Mobile Heavy Equipment Mechanics, Except Engines",0.0,0.0,0.0,0.0
+493043,Rail Car Repairers,0.0,0.0,Rail Car Repairers,0.0,0.0,0.0,0.0
+493051,Motorboat Mechanics and Service Technicians,0.0,0.0,Motorboat Mechanics and Service Technicians,0.0,0.0,0.0,0.0
+493052,Motorcycle Mechanics,0.0,0.0,Motorcycle Mechanics,0.0,0.0,0.0,0.0
+493053,Outdoor Power Equipment and Other Small Engine Mechanics,0.0,0.0,Outdoor Power Equipment and Other Small Engine Mechanics,0.0,0.0,0.0,0.0
+493091,Bicycle Repairers,0.0,0.0,Bicycle Repairers,0.0,0.0,0.0,0.0
+493092,Recreational Vehicle Service Technicians,0.0,0.0,Recreational Vehicle Service Technicians,0.0,0.0,0.0,0.0
+493093,Tire Repairers and Changers,0.0,0.0,Tire Repairers and Changers,0.0,0.0,0.0,0.0
+499011,Mechanical Door Repairers,0.0,0.0,Mechanical Door Repairers,0.0,0.0,0.0,0.0
+499012,"Control and Valve Installers and Repairers, Except Mechanical Door",0.0,4.76,"Control and Valve Installers and Repairers, Except Mechanical Door",0.0,4.17,0.0,0.59
+499021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0,0.0,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.0,0.0,0.0,0.0
+499031,Home Appliance Repairers,0.0,0.0,Home Appliance Repairers,0.0,0.0,0.0,0.0
+499041,Industrial Machinery Mechanics,0.0,0.0,Industrial Machinery Mechanics,0.0,0.0,0.0,0.0
+499043,"Maintenance Workers, Machinery",0.0,0.0,"Maintenance Workers, Machinery",0.0,0.0,0.0,0.0
+499044,Millwrights,0.0,0.0,Millwrights,0.0,0.0,0.0,0.0
+499045,"Refractory Materials Repairers, Except Brickmasons",0.0,0.0,"Refractory Materials Repairers, Except Brickmasons",0.0,0.0,0.0,0.0
+499051,Electrical Power-Line Installers and Repairers,0.0,0.0,Electrical Power-Line Installers and Repairers,0.0,0.0,0.0,0.0
+499052,Telecommunications Line Installers and Repairers,0.0,0.0,Telecommunications Line Installers and Repairers,0.0,0.0,0.0,0.0
+499061,Camera and Photographic Equipment Repairers,0.0,16.67,Camera and Photographic Equipment Repairers,0.0,16.67,0.0,0.0
+499062,Medical Equipment Repairers,0.0,0.0,Medical Equipment Repairers,0.0,0.0,0.0,0.0
+499063,Musical Instrument Repairers and Tuners,0.0,0.0,Musical Instrument Repairers and Tuners,0.0,0.0,0.0,0.0
+499064,Watch and Clock Repairers,0.0,0.0,Watch and Clock Repairers,0.0,0.0,0.0,0.0
+499071,"Maintenance and Repair Workers, General",0.0,0.0,"Maintenance and Repair Workers, General",0.0,0.0,0.0,0.0
+499081,Wind Turbine Service Technicians,0.0,5.88,Wind Turbine Service Technicians,0.0,5.88,0.0,0.0
+499091,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.0,0.0,"Coin, Vending, and Amusement Machine Servicers and Repairers",0.0,0.0,0.0,0.0
+499092,Commercial Divers,0.0,0.0,Commercial Divers,0.0,0.0,0.0,0.0
+499094,Locksmiths and Safe Repairers,0.0,0.0,Locksmiths and Safe Repairers,0.0,0.0,0.0,0.0
+499095,Manufactured Building and Mobile Home Installers,0.0,0.0,Manufactured Building and Mobile Home Installers,0.0,0.0,0.0,0.0
+499096,Riggers,0.0,0.0,Riggers,0.0,0.0,0.0,0.0
+499097,Signal and Track Switch Repairers,0.0,0.0,Signal and Track Switch Repairers,0.0,0.0,0.0,0.0
+499098,"Helpers--Installation, Maintenance, and Repair Workers",0.0,0.0,"Helpers--Installation, Maintenance, and Repair Workers",0.0,0.0,0.0,0.0
+499099,Geothermal Technicians,0.0,0.0,Geothermal Technicians,0.0,0.0,0.0,0.0
+511011,First-Line Supervisors of Production and Operating Workers,0.0,0.0,First-Line Supervisors of Production and Operating Workers,0.0,0.0,0.0,0.0
+512011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.0,0.0,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.0,0.0,0.0,0.0
+512021,"Coil Winders, Tapers, and Finishers",0.0,0.0,"Coil Winders, Tapers, and Finishers",0.0,0.0,0.0,0.0
+512022,Electrical and Electronic Equipment Assemblers,0.0,0.0,Electrical and Electronic Equipment Assemblers,0.0,0.0,0.0,0.0
+512023,Electromechanical Equipment Assemblers,0.0,0.0,Electromechanical Equipment Assemblers,0.0,0.0,0.0,0.0
+512031,Engine and Other Machine Assemblers,0.0,0.0,Engine and Other Machine Assemblers,0.0,0.0,0.0,0.0
+512041,Structural Metal Fabricators and Fitters,0.0,0.0,Structural Metal Fabricators and Fitters,0.0,0.0,0.0,0.0
+512051,Fiberglass Laminators and Fabricators,0.0,0.0,Fiberglass Laminators and Fabricators,0.0,0.0,0.0,0.0
+512061,Timing Device Assemblers and Adjusters,0.0,0.0,Timing Device Assemblers and Adjusters,0.0,0.0,0.0,0.0
+512092,Team Assemblers,0.0,0.0,Team Assemblers,0.0,0.0,0.0,0.0
+513011,Bakers,0.0,0.0,Bakers,0.0,0.0,0.0,0.0
+513021,Butchers and Meat Cutters,0.0,0.0,Butchers and Meat Cutters,0.0,0.0,0.0,0.0
+513022,"Meat, Poultry, and Fish Cutters and Trimmers",0.0,0.0,"Meat, Poultry, and Fish Cutters and Trimmers",0.0,0.0,0.0,0.0
+513023,Slaughterers and Meat Packers,0.0,0.0,Slaughterers and Meat Packers,0.0,0.0,0.0,0.0
+513091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.0,0.0,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.0,0.0,0.0,0.0
+513092,Food Batchmakers,0.0,0.0,Food Batchmakers,0.0,0.0,0.0,0.0
+513093,Food Cooking Machine Operators and Tenders,0.0,0.0,Food Cooking Machine Operators and Tenders,0.0,0.0,0.0,0.0
+514021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514041,Machinists,0.0,0.0,Machinists,0.0,0.0,0.0,0.0
+514051,Metal-Refining Furnace Operators and Tenders,0.0,0.0,Metal-Refining Furnace Operators and Tenders,0.0,0.0,0.0,0.0
+514052,"Pourers and Casters, Metal",0.0,0.0,"Pourers and Casters, Metal",0.0,0.0,0.0,0.0
+514061,"Model Makers, Metal and Plastic",0.0,0.0,"Model Makers, Metal and Plastic",0.0,0.0,0.0,0.0
+514062,"Patternmakers, Metal and Plastic",0.0,0.0,"Patternmakers, Metal and Plastic",0.0,0.0,0.0,0.0
+514071,Foundry Mold and Coremakers,0.0,0.0,Foundry Mold and Coremakers,0.0,0.0,0.0,0.0
+514072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514111,Tool and Die Makers,0.0,0.0,Tool and Die Makers,0.0,0.0,0.0,0.0
+514121,"Welders, Cutters, Solderers, and Brazers",0.0,0.0,"Welders, Cutters, Solderers, and Brazers",0.0,0.0,0.0,0.0
+514122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.0,0.0,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+514191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514192,"Layout Workers, Metal and Plastic",0.0,0.0,"Layout Workers, Metal and Plastic",0.0,0.0,0.0,0.0
+514193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",0.0,0.0,0.0,0.0
+514194,"Tool Grinders, Filers, and Sharpeners",0.0,0.0,"Tool Grinders, Filers, and Sharpeners",0.0,0.0,0.0,0.0
+515111,Prepress Technicians and Workers,0.0,0.0,Prepress Technicians and Workers,0.0,0.0,0.0,0.0
+515112,Printing Press Operators,0.0,0.0,Printing Press Operators,0.0,0.0,0.0,0.0
+515113,Print Binding and Finishing Workers,0.0,0.0,Print Binding and Finishing Workers,0.0,0.0,0.0,0.0
+516011,Laundry and Dry-Cleaning Workers,0.0,0.0,Laundry and Dry-Cleaning Workers,0.0,0.0,0.0,0.0
+516021,"Pressers, Textile, Garment, and Related Materials",0.0,0.0,"Pressers, Textile, Garment, and Related Materials",0.0,0.0,0.0,0.0
+516031,Sewing Machine Operators,0.0,0.0,Sewing Machine Operators,0.0,0.0,0.0,0.0
+516041,Shoe and Leather Workers and Repairers,0.0,0.0,Shoe and Leather Workers and Repairers,0.0,0.0,0.0,0.0
+516042,Shoe Machine Operators and Tenders,0.0,0.0,Shoe Machine Operators and Tenders,0.0,0.0,0.0,0.0
+516051,"Sewers, Hand",0.0,0.0,"Sewers, Hand",0.0,0.0,0.0,0.0
+516052,"Tailors, Dressmakers, and Custom Sewers",0.0,0.0,"Tailors, Dressmakers, and Custom Sewers",0.0,0.0,0.0,0.0
+516061,Textile Bleaching and Dyeing Machine Operators and Tenders,0.0,0.0,Textile Bleaching and Dyeing Machine Operators and Tenders,0.0,0.0,0.0,0.0
+516062,"Textile Cutting Machine Setters, Operators, and Tenders",0.0,0.0,"Textile Cutting Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+516063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.0,0.0,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+516064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.0,0.0,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+516091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.0,22.22,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",0.0,22.22,0.0,0.0
+516092,Fabric and Apparel Patternmakers,0.0,0.0,Fabric and Apparel Patternmakers,0.0,0.0,0.0,0.0
+516093,Upholsterers,0.0,0.0,Upholsterers,0.0,0.0,0.0,0.0
+517011,Cabinetmakers and Bench Carpenters,0.0,0.0,Cabinetmakers and Bench Carpenters,0.0,0.0,0.0,0.0
+517021,Furniture Finishers,0.0,0.0,Furniture Finishers,0.0,0.0,0.0,0.0
+517031,"Model Makers, Wood",0.0,0.0,"Model Makers, Wood",0.0,0.0,0.0,0.0
+517032,"Patternmakers, Wood",0.0,0.0,"Patternmakers, Wood",0.0,0.0,0.0,0.0
+517041,"Sawing Machine Setters, Operators, and Tenders, Wood",0.0,0.0,"Sawing Machine Setters, Operators, and Tenders, Wood",0.0,0.0,0.0,0.0
+517042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.0,0.0,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.0,0.0,0.0,0.0
+518011,Nuclear Power Reactor Operators,0.0,16.67,Nuclear Power Reactor Operators,0.0,16.67,0.0,0.0
+518012,Power Distributors and Dispatchers,0.0,0.0,Power Distributors and Dispatchers,0.0,0.0,0.0,0.0
+518013,Power Plant Operators,0.0,0.0,Power Plant Operators,0.0,0.0,0.0,0.0
+518021,Stationary Engineers and Boiler Operators,0.0,6.67,Stationary Engineers and Boiler Operators,0.0,5.56,0.0,1.11
+518031,Water and Wastewater Treatment Plant and System Operators,0.0,0.0,Water and Wastewater Treatment Plant and System Operators,0.0,0.0,0.0,0.0
+518091,Chemical Plant and System Operators,0.0,0.0,Chemical Plant and System Operators,0.0,0.0,0.0,0.0
+518092,Gas Plant Operators,0.0,0.0,Gas Plant Operators,0.0,0.0,0.0,0.0
+518093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.0,0.0,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",0.0,0.0,0.0,0.0
+518099,Biofuels Processing Technicians,0.0,36.36,Biofuels Processing Technicians,0.0,33.33,0.0,3.03
+519011,Chemical Equipment Operators and Tenders,0.0,0.0,Chemical Equipment Operators and Tenders,0.0,0.0,0.0,0.0
+519012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.0,0.0,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.0,0.0,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519022,"Grinding and Polishing Workers, Hand",0.0,0.0,"Grinding and Polishing Workers, Hand",0.0,0.0,0.0,0.0
+519023,"Mixing and Blending Machine Setters, Operators, and Tenders",0.0,0.0,"Mixing and Blending Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519031,"Cutters and Trimmers, Hand",0.0,0.0,"Cutters and Trimmers, Hand",0.0,0.0,0.0,0.0
+519032,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.0,0.0,"Cutting and Slicing Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.0,0.0,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.0,0.0,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.0,0.0,0.0,0.0
+519061,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0,7.14,"Inspectors, Testers, Sorters, Samplers, and Weighers",0.0,7.14,0.0,0.0
+519071,Jewelers and Precious Stone and Metal Workers,0.0,0.0,Jewelers and Precious Stone and Metal Workers,0.0,0.0,0.0,0.0
+519081,Dental Laboratory Technicians,0.0,0.0,Dental Laboratory Technicians,0.0,0.0,0.0,0.0
+519082,Medical Appliance Technicians,0.0,0.0,Medical Appliance Technicians,0.0,0.0,0.0,0.0
+519083,Ophthalmic Laboratory Technicians,0.0,0.0,Ophthalmic Laboratory Technicians,0.0,0.0,0.0,0.0
+519111,Packaging and Filling Machine Operators and Tenders,0.0,0.0,Packaging and Filling Machine Operators and Tenders,0.0,0.0,0.0,0.0
+519123,"Painting, Coating, and Decorating Workers",0.0,0.0,"Painting, Coating, and Decorating Workers",0.0,0.0,0.0,0.0
+519124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.0,0.0,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519141,Semiconductor Processing Technicians,0.0,9.09,Semiconductor Processing Technicians,0.0,9.09,0.0,0.0
+519151,Photographic Process Workers and Processing Machine Operators,0.0,8.0,Photographic Process Workers and Processing Machine Operators,0.0,8.0,0.0,0.0
+519161,Computer Numerically Controlled Tool Operators,0.0,0.0,Computer Numerically Controlled Tool Operators,0.0,0.0,0.0,0.0
+519162,Computer Numerically Controlled Tool Programmers,0.0,0.0,Computer Numerically Controlled Tool Programmers,0.0,0.0,0.0,0.0
+519191,Adhesive Bonding Machine Operators and Tenders,0.0,0.0,Adhesive Bonding Machine Operators and Tenders,0.0,0.0,0.0,0.0
+519192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.0,0.0,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.0,0.0,0.0,0.0
+519193,Cooling and Freezing Equipment Operators and Tenders,0.0,0.0,Cooling and Freezing Equipment Operators and Tenders,0.0,0.0,0.0,0.0
+519194,Etchers and Engravers,0.0,0.0,Etchers and Engravers,0.0,0.0,0.0,0.0
+519195,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,0.0,"Molders, Shapers, and Casters, Except Metal and Plastic",0.0,0.0,0.0,0.0
+519196,"Paper Goods Machine Setters, Operators, and Tenders",0.0,0.0,"Paper Goods Machine Setters, Operators, and Tenders",0.0,0.0,0.0,0.0
+519197,Tire Builders,0.0,0.0,Tire Builders,0.0,0.0,0.0,0.0
+519198,Helpers--Production Workers,0.0,0.0,Helpers--Production Workers,0.0,0.0,0.0,0.0
+531041,Aircraft Cargo Handling Supervisors,0.0,0.0,Aircraft Cargo Handling Supervisors,0.0,0.0,0.0,0.0
+531042,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0.0,0.0,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",0.0,0.0,0.0,0.0
+531043,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.0,0.0,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,0.0,0.0,0.0,0.0
+531044,First-Line Supervisors of Passenger Attendants,0.0,0.0,First-Line Supervisors of Passenger Attendants,0.0,0.0,0.0,0.0
+532011,"Airline Pilots, Copilots, and Flight Engineers",0.0,0.0,"Airline Pilots, Copilots, and Flight Engineers",0.0,0.0,0.0,0.0
+532012,Commercial Pilots,0.0,0.0,Commercial Pilots,0.0,0.0,0.0,0.0
+532021,Air Traffic Controllers,0.0,0.0,Air Traffic Controllers,0.0,0.0,0.0,0.0
+532022,Airfield Operations Specialists,0.0,0.0,Airfield Operations Specialists,0.0,0.0,0.0,0.0
+532031,Flight Attendants,0.0,0.0,Flight Attendants,0.0,0.0,0.0,0.0
+533011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.0,0.0,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",0.0,0.0,0.0,0.0
+533031,Driver/Sales Workers,0.0,0.0,Driver/Sales Workers,0.0,0.0,0.0,0.0
+533032,Heavy and Tractor-Trailer Truck Drivers,0.0,0.0,Heavy and Tractor-Trailer Truck Drivers,0.0,0.0,0.0,0.0
+533033,Light Truck Drivers,0.0,0.0,Light Truck Drivers,0.0,0.0,0.0,0.0
+533051,"Bus Drivers, School",0.0,0.0,"Bus Drivers, School",0.0,0.0,0.0,0.0
+533052,"Bus Drivers, Transit and Intercity",0.0,0.0,"Bus Drivers, Transit and Intercity",0.0,0.0,0.0,0.0
+533053,Shuttle Drivers and Chauffeurs,0.0,0.0,Shuttle Drivers and Chauffeurs,0.0,0.0,0.0,0.0
+533054,Taxi Drivers,0.0,0.0,Taxi Drivers,0.0,0.0,0.0,0.0
+534011,Locomotive Engineers,0.0,0.0,Locomotive Engineers,0.0,0.0,0.0,0.0
+534013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.0,0.0,"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.0,0.0,0.0,0.0
+534022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0.0,0.0,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",0.0,0.0,0.0,0.0
+534031,Railroad Conductors and Yardmasters,0.0,0.0,Railroad Conductors and Yardmasters,0.0,0.0,0.0,0.0
+534041,Subway and Streetcar Operators,0.0,0.0,Subway and Streetcar Operators,0.0,0.0,0.0,0.0
+535011,Sailors and Marine Oilers,0.0,0.0,Sailors and Marine Oilers,0.0,0.0,0.0,0.0
+535021,"Captains, Mates, and Pilots of Water Vessels",0.0,0.0,"Captains, Mates, and Pilots of Water Vessels",0.0,0.0,0.0,0.0
+535022,Motorboat Operators,0.0,0.0,Motorboat Operators,0.0,0.0,0.0,0.0
+535031,Ship Engineers,0.0,0.0,Ship Engineers,0.0,0.0,0.0,0.0
+536011,Bridge and Lock Tenders,0.0,0.0,Bridge and Lock Tenders,0.0,0.0,0.0,0.0
+536021,Parking Attendants,0.0,0.0,Parking Attendants,0.0,0.0,0.0,0.0
+536031,Automotive and Watercraft Service Attendants,0.0,0.0,Automotive and Watercraft Service Attendants,0.0,0.0,0.0,0.0
+536032,Aircraft Service Attendants,0.0,0.0,Aircraft Service Attendants,0.0,0.0,0.0,0.0
+536041,Traffic Technicians,0.0,17.86,Traffic Technicians,0.0,17.24,0.0,0.62
+536051,Transportation Inspectors,0.0,6.9,Transportation Inspectors,0.0,6.45,0.0,0.45
+536061,Passenger Attendants,0.0,0.0,Passenger Attendants,0.0,0.0,0.0,0.0
+537011,Conveyor Operators and Tenders,0.0,0.0,Conveyor Operators and Tenders,0.0,0.0,0.0,0.0
+537021,Crane and Tower Operators,0.0,0.0,Crane and Tower Operators,0.0,0.0,0.0,0.0
+537031,Dredge Operators,0.0,0.0,Dredge Operators,0.0,0.0,0.0,0.0
+537041,Hoist and Winch Operators,0.0,0.0,Hoist and Winch Operators,0.0,0.0,0.0,0.0
+537051,Industrial Truck and Tractor Operators,0.0,0.0,Industrial Truck and Tractor Operators,0.0,0.0,0.0,0.0
+537061,Cleaners of Vehicles and Equipment,0.0,0.0,Cleaners of Vehicles and Equipment,0.0,0.0,0.0,0.0
+537062,"Laborers and Freight, Stock, and Material Movers, Hand",0.0,0.0,"Laborers and Freight, Stock, and Material Movers, Hand",0.0,0.0,0.0,0.0
+537063,Machine Feeders and Offbearers,0.0,0.0,Machine Feeders and Offbearers,0.0,0.0,0.0,0.0
+537064,"Packers and Packagers, Hand",0.0,0.0,"Packers and Packagers, Hand",0.0,0.0,0.0,0.0
+537065,Stockers and Order Fillers,0.0,0.0,Stockers and Order Fillers,0.0,0.0,0.0,0.0
+537071,Gas Compressor and Gas Pumping Station Operators,0.0,0.0,Gas Compressor and Gas Pumping Station Operators,0.0,0.0,0.0,0.0
+537072,"Pump Operators, Except Wellhead Pumpers",0.0,0.0,"Pump Operators, Except Wellhead Pumpers",0.0,0.0,0.0,0.0
+537073,Wellhead Pumpers,0.0,0.0,Wellhead Pumpers,0.0,0.0,0.0,0.0
+537081,Refuse and Recyclable Material Collectors,0.0,0.0,Refuse and Recyclable Material Collectors,0.0,0.0,0.0,0.0
+537121,"Tank Car, Truck, and Ship Loaders",0.0,0.0,"Tank Car, Truck, and Ship Loaders",0.0,0.0,0.0,0.0

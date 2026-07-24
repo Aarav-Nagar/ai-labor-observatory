@@ -1,0 +1,134 @@
+soc_code,occupation_title,total_software_skills,ai_related_skills,signal_numerator,signal_denominator,hot_skills,in_demand_skills,core_ai_skills,ai_intensity,ai_skill_share,release,signal_occupation_titles,skills_analytics,skills_core_ai_ml,skills_data_engineering,skills_mlops_cloud,bachelors_plus_share,job_zone,area_code,area_name,year,employment,annual_median_wage
+151221,Computer and Information Research Scientists,164,22,18.0,200.0,76,34,5,9.0,13.41,O*NET 30.3 (May 2026),Computer and Information Research Scientists,6.0,5.0,7.0,4.0,91.65,5.0,0000000,United States,2025,37200.0,140300.0
+152051,Data Scientists,268,45,28.150000000000002,409.0,176,40,5,6.88,16.79,O*NET 30.3 (May 2026),Data Scientists,7.0,5.0,13.0,6.0,100.0,4.0,0000000,United States,2025,262440.0,120230.0
+132054,Financial Risk Specialists,190,14,7.8875,204.75,43,8,3,3.85,7.37,O*NET 30.3 (May 2026),Financial Risk Specialists,8.0,3.0,3.0,0.0,,4.0,0000000,United States,2025,63850.0,117330.0
+333021,Detectives and Criminal Investigators,106,13,6.0,159.25,55,5,1,3.77,12.26,O*NET 30.3 (May 2026),Intelligence Analysts,5.0,1.0,5.0,0.0,100.0,3.0,0000000,United States,2025,114430.0,93790.0
+173025,Environmental Engineering Technologists and Technicians,69,6,2.5875,72.5,14,0,1,3.57,8.7,O*NET 30.3 (May 2026),Environmental Engineering Technologists and Technicians,4.0,1.0,1.0,0.0,72.93,4.0,0000000,United States,2025,12190.0,59920.0
+172112,Industrial Engineers,233,22,10.7,361.5,148,29,1,2.96,9.44,O*NET 30.3 (May 2026),Industrial Engineers,5.0,1.0,4.0,2.0,100.0,4.0,0000000,United States,2025,365740.0,102440.0
+151252,Software Developers,430,22,13.575,483.0,152,30,2,2.81,5.12,O*NET 30.3 (May 2026),Software Developers,5.0,2.0,12.0,3.0,90.13,4.0,0000000,United States,2025,1687890.0,135980.0
+132051,Financial and Investment Analysts,180,11,4.95,192.25,33,8,1,2.57,6.11,O*NET 30.3 (May 2026),Financial and Investment Analysts,7.0,1.0,3.0,0.0,,4.0,0000000,United States,2025,361980.0,102740.0
+172031,Bioengineers and Biomedical Engineers,134,7,3.0625,144.75,33,5,1,2.12,5.22,O*NET 30.3 (May 2026),Bioengineers and Biomedical Engineers,5.0,1.0,1.0,0.0,95.64999999999999,4.0,0000000,United States,2025,23480.0,109370.0
+173026,Industrial Engineering Technologists and Technicians,108,4,1.8125,122.0,28,2,1,1.49,3.7,O*NET 30.3 (May 2026),Industrial Engineering Technologists and Technicians,3.0,1.0,0.0,0.0,100.0,3.5,0000000,United States,2025,75570.0,66120.0
+111011,Chief Executives,56,3,1.2125,80.5,30,8,0,0.0,5.36,O*NET 30.3 (May 2026),,1.0,0.0,2.0,0.0,100.0,5.0,0000000,United States,2025,204350.0,213990.0
+111031,Legislators,32,2,1.0,34.75,11,0,0,0.0,6.25,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,,4.0,0000000,United States,2025,,
+111021,General and Operations Managers,141,6,2.4375,154.75,49,3,0,0.0,4.26,O*NET 30.3 (May 2026),,3.0,0.0,3.0,0.0,27.59,4.0,0000000,United States,2025,3503020.0,105770.0
+112021,Marketing Managers,154,8,3.45,174.0,68,6,0,0.0,5.19,O*NET 30.3 (May 2026),,4.0,0.0,4.0,0.0,90.64,4.0,0000000,United States,2025,395240.0,166790.0
+112011,Advertising and Promotions Managers,72,4,1.4625,80.25,27,3,0,0.0,5.56,O*NET 30.3 (May 2026),,2.0,0.0,2.0,0.0,68.31,4.0,0000000,United States,2025,21470.0,133660.0
+113111,Compensation and Benefits Managers,85,2,1.0,91.75,17,5,0,0.0,2.35,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,22940.0,149230.0
+113071,"Transportation, Storage, and Distribution Managers",143,4,2.0,175.0,28,12,0,0.0,2.8,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,95.24000000000001,4.0,0000000,United States,2025,221180.0,107230.0
+113061,Purchasing Managers,34,0,0.0,40.0,12,6,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,63.160000000000004,4.0,0000000,United States,2025,84320.0,148080.0
+112022,Sales Managers,103,4,1.625,115.25,39,5,0,0.0,3.88,O*NET 30.3 (May 2026),,2.0,0.0,2.0,0.0,76.19000000000001,4.0,0000000,United States,2025,637080.0,148270.0
+112033,Fundraising Managers,60,0,0.0,69.5,24,7,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,76.41999999999999,4.0,0000000,United States,2025,38810.0,125470.0
+112032,Public Relations Managers,65,0,0.0,74.25,29,4,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,,4.0,0000000,United States,2025,74850.0,146910.0
+119032,"Education Administrators, Kindergarten through Secondary",57,2,0.625,61.25,11,3,0,0.0,3.51,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,328330.0,105870.0
+119033,"Education Administrators, Postsecondary",59,1,0.3125,65.5,16,5,0,0.0,1.69,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,180470.0,104590.0
+119041,Architectural and Engineering Managers,140,12,5.65,182.25,89,4,0,0.0,8.57,O*NET 30.3 (May 2026),,2.0,0.0,7.0,1.0,100.0,4.5,0000000,United States,2025,220260.0,171270.0
+119051,Food Service Managers,37,0,0.0,39.75,9,1,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,9.73,2.0,0000000,United States,2025,238430.0,69390.0
+119071,Gambling Managers,8,0,0.0,10.75,5,3,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,6.74,2.0,0000000,United States,2025,5030.0,93220.0
+119072,"Entertainment and Recreation Managers, Except Gambling",64,1,0.3125,72.75,31,2,0,0.0,1.56,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,59.47,4.0,0000000,United States,2025,37980.0,79520.0
+119081,Lodging Managers,27,0,0.0,30.75,7,4,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,71.6,4.0,0000000,United States,2025,42620.0,69250.0
+119111,Medical and Health Services Managers,126,7,3.125,138.0,40,4,0,0.0,5.56,O*NET 30.3 (May 2026),,2.0,0.0,5.0,0.0,75.0,4.0,0000000,United States,2025,597080.0,123860.0
+119121,Natural Sciences Managers,83,7,2.5625,121.25,39,11,0,0.0,8.43,O*NET 30.3 (May 2026),,3.0,0.0,1.0,0.0,100.0,4.0,0000000,United States,2025,108690.0,167220.0
+119199,Regulatory Affairs Managers,175,8,3.0875,260.0,76,18,0,0.0,4.57,O*NET 30.3 (May 2026),,3.0,0.0,3.0,0.0,100.0,4.0,0000000,United States,2025,622190.0,141900.0
+131031,"Claims Adjusters, Examiners, and Investigators",73,0,0.0,77.25,9,4,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,60.35,4.0,0000000,United States,2025,324230.0,78000.0
+113012,Administrative Services Managers,56,1,0.3125,64.0,22,5,0,0.0,1.79,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,28.27,3.0,0000000,United States,2025,263960.0,114130.0
+113013,Facilities Managers,70,0,0.0,94.25,33,10,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,92.42,3.5,0000000,United States,2025,156180.0,106660.0
+113021,Computer and Information Systems Managers,177,9,3.75,193.25,59,3,0,0.0,5.08,O*NET 30.3 (May 2026),,4.0,0.0,5.0,0.0,64.84,4.0,0000000,United States,2025,670570.0,175140.0
+113031,Financial Managers,93,10,3.8125,158.75,57,13,0,0.0,10.75,O*NET 30.3 (May 2026),,4.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,841710.0,166570.0
+113051,Industrial Production Managers,107,6,2.65,176.25,59,9,0,0.0,5.61,O*NET 30.3 (May 2026),,1.0,0.0,4.0,0.0,100.0,4.0,0000000,United States,2025,246250.0,126060.0
+131111,Management Analysts,216,14,6.6375,247.5,104,11,0,0.0,6.48,O*NET 30.3 (May 2026),,5.0,0.0,9.0,0.0,90.47,4.0,0000000,United States,2025,898280.0,101860.0
+131082,Project Management Specialists,90,2,0.625,103.75,43,6,0,0.0,2.22,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,,4.0,0000000,United States,2025,1066670.0,102320.0
+131081,Logisticians,88,13,5.6375,152.5,60,19,0,0.0,14.77,O*NET 30.3 (May 2026),,5.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,251040.0,82320.0
+131071,Human Resources Specialists,172,4,1.625,186.5,44,7,0,0.0,2.33,O*NET 30.3 (May 2026),,2.0,0.0,2.0,0.0,73.19,4.0,0000000,United States,2025,912430.0,75940.0
+131041,Compliance Officers,129,6,2.75,214.75,79,26,0,0.0,4.65,O*NET 30.3 (May 2026),,1.0,0.0,4.0,0.0,100.0,4.0,0000000,United States,2025,417070.0,80730.0
+131161,Market Research Analysts and Marketing Specialists,185,11,4.4375,250.25,79,29,0,0.0,5.95,O*NET 30.3 (May 2026),,5.0,0.0,3.0,0.0,100.0,4.0,0000000,United States,2025,899580.0,78760.0
+131199,Business Continuity Planners,160,9,4.125,241.5,94,26,0,0.0,5.62,O*NET 30.3 (May 2026),,3.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,1087090.0,83050.0
+131141,"Compensation, Benefits, and Job Analysis Specialists",95,3,1.3125,102.25,17,6,0,0.0,3.16,O*NET 30.3 (May 2026),,1.0,0.0,2.0,0.0,95.22999999999999,4.0,0000000,United States,2025,112380.0,78210.0
+132052,Personal Financial Advisors,102,2,1.0,106.5,12,3,0,0.0,1.96,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,92.31,4.0,0000000,United States,2025,266800.0,105070.0
+132072,Loan Officers,88,0,0.0,91.75,9,3,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,69.86,4.0,0000000,United States,2025,274330.0,76690.0
+151211,Computer Systems Analysts,346,23,11.275,419.75,145,21,0,0.0,6.65,O*NET 30.3 (May 2026),,5.0,0.0,10.0,1.0,100.0,4.5,0000000,United States,2025,519530.0,105850.0
+151212,Information Security Analysts,245,13,6.1875,275.25,93,14,0,0.0,5.31,O*NET 30.3 (May 2026),,4.0,0.0,8.0,1.0,77.96,4.0,0000000,United States,2025,190650.0,129180.0
+151231,Computer Network Support Specialists,142,3,1.3125,155.5,34,10,0,0.0,2.11,O*NET 30.3 (May 2026),,1.0,0.0,2.0,0.0,50.3,4.0,0000000,United States,2025,146190.0,76220.0
+151232,Computer User Support Specialists,258,13,6.2625,292.25,113,12,0,0.0,5.04,O*NET 30.3 (May 2026),,4.0,0.0,8.0,1.0,51.69,3.0,0000000,United States,2025,717190.0,61860.0
+132011,Accountants and Auditors,237,5,1.875,249.25,37,6,0,0.0,2.11,O*NET 30.3 (May 2026),,3.0,0.0,2.0,0.0,,4.0,0000000,United States,2025,1449500.0,83680.0
+131151,Training and Development Specialists,117,1,0.5,126.25,27,5,0,0.0,0.85,O*NET 30.3 (May 2026),,0.0,0.0,1.0,0.0,78.26,4.0,0000000,United States,2025,458300.0,69280.0
+151242,Database Administrators,288,26,15.125,335.0,112,38,0,0.0,9.03,O*NET 30.3 (May 2026),,5.0,0.0,18.0,3.0,94.18,4.0,0000000,United States,2025,69990.0,104620.0
+151241,Computer Network Architects,296,16,7.8875,373.75,123,24,0,0.0,5.41,O*NET 30.3 (May 2026),,3.0,0.0,8.0,1.0,100.0,3.5,0000000,United States,2025,179740.0,134050.0
+151244,Network and Computer Systems Administrators,261,13,6.575,293.75,95,18,0,0.0,4.98,O*NET 30.3 (May 2026),,3.0,0.0,9.0,1.0,62.5,4.0,0000000,United States,2025,314340.0,99130.0
+151243,Database Architects,348,43,20.6,536.5,176,23,0,0.0,12.36,O*NET 30.3 (May 2026),,7.0,0.0,19.0,2.0,100.0,4.0,0000000,United States,2025,67140.0,139500.0
+151253,Software Quality Assurance Analysts and Testers,429,16,7.6875,472.5,126,24,0,0.0,3.73,O*NET 30.3 (May 2026),,4.0,0.0,11.0,1.0,52.94,4.0,0000000,United States,2025,186740.0,104300.0
+151254,Web Developers,251,15,8.55,300.0,122,37,0,0.0,5.98,O*NET 30.3 (May 2026),,4.0,0.0,9.0,2.0,50.0,3.0,0000000,United States,2025,70190.0,92650.0
+151255,Web and Digital Interface Designers,259,17,8.0,338.75,145,19,0,0.0,6.56,O*NET 30.3 (May 2026),,4.0,0.0,9.0,1.0,55.0,4.0,0000000,United States,2025,113330.0,104000.0
+151251,Computer Programmers,293,15,7.6125,328.25,103,19,0,0.0,5.12,O*NET 30.3 (May 2026),,4.0,0.0,10.0,1.0,88.49000000000001,4.0,0000000,United States,2025,92230.0,100390.0
+151299,Web Administrators,598,66,37.4625,1431.75,557,141,0,0.0,11.04,O*NET 30.3 (May 2026),,4.0,0.0,10.0,3.0,100.0,4.0,0000000,United States,2025,435370.0,116580.0
+152021,Mathematicians,93,7,2.5,107.5,34,12,0,0.0,7.53,O*NET 30.3 (May 2026),,6.0,0.0,1.0,0.0,100.0,5.0,0000000,United States,2025,2030.0,126710.0
+152031,Operations Research Analysts,114,9,4.1375,130.0,46,9,0,0.0,7.89,O*NET 30.3 (May 2026),,5.0,0.0,4.0,0.0,100.0,5.0,0000000,United States,2025,108510.0,88940.0
+113121,Human Resources Managers,102,0,0.0,109.25,15,7,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,95.46,4.0,0000000,United States,2025,220660.0,149280.0
+113131,Training and Development Managers,96,0,0.0,102.25,15,5,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,100.0,4.0,0000000,United States,2025,48050.0,133000.0
+119013,"Farmers, Ranchers, and Other Agricultural Managers",76,1,0.25,79.75,11,2,0,0.0,1.32,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,,4.0,0000000,United States,2025,6500.0,89900.0
+119021,Construction Managers,61,0,0.0,69.0,20,6,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,45.0,4.0,0000000,United States,2025,380360.0,114990.0
+119031,"Education and Childcare Administrators, Preschool and Daycare",34,0,0.0,36.0,6,1,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,16.52,4.0,0000000,United States,2025,73660.0,59300.0
+172011,Aerospace Engineers,84,3,1.275,95.75,25,11,0,0.0,3.57,O*NET 30.3 (May 2026),,2.0,0.0,1.0,0.0,92.39,4.0,0000000,United States,2025,67710.0,134960.0
+171022,Surveyors,76,1,0.5,93.5,24,5,0,0.0,1.32,O*NET 30.3 (May 2026),,0.0,0.0,1.0,0.0,100.0,4.0,0000000,United States,2025,50830.0,75440.0
+171021,Cartographers and Photogrammetrists,70,2,0.8125,77.0,24,2,0,0.0,2.86,O*NET 30.3 (May 2026),,1.0,0.0,1.0,0.0,42.49,4.0,0000000,United States,2025,14260.0,81390.0
+171011,"Architects, Except Landscape and Naval",71,2,1.0,84.5,34,10,0,0.0,2.82,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,95.24,5.0,0000000,United States,2025,106770.0,99280.0
+152041,Statisticians,92,23,9.0875,139.75,55,22,0,0.0,25.0,O*NET 30.3 (May 2026),,13.0,0.0,4.0,0.0,100.0,5.0,0000000,United States,2025,29030.0,105650.0
+172071,Electrical Engineers,120,3,1.375,133.0,32,10,0,0.0,2.5,O*NET 30.3 (May 2026),,2.0,0.0,1.0,0.0,88.96000000000001,4.0,0000000,United States,2025,198750.0,120630.0
+172061,Computer Hardware Engineers,112,4,1.6875,123.5,20,13,0,0.0,3.57,O*NET 30.3 (May 2026),,3.0,0.0,1.0,0.0,93.11,4.0,0000000,United States,2025,76660.0,161740.0
+172072,"Electronics Engineers, Except Computer",84,8,3.65,121.5,44,13,0,0.0,9.52,O*NET 30.3 (May 2026),,2.0,0.0,3.0,0.0,100.0,4.0,0000000,United States,2025,96900.0,130220.0
+172141,Mechanical Engineers,168,12,4.5,240.5,80,25,0,0.0,7.14,O*NET 30.3 (May 2026),,5.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,296810.0,104110.0
+172111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",107,2,0.625,129.0,28,12,0,0.0,1.87,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,96.17,4.0,0000000,United States,2025,21450.0,115160.0
+172199,"Energy Engineers, Except Wind and Solar",297,31,12.2125,551.75,187,58,0,0.0,10.44,O*NET 30.3 (May 2026),,8.0,0.0,4.0,0.0,100.0,4.0,0000000,United States,2025,154070.0,122930.0
+173011,Architectural and Civil Drafters,81,0,0.0,94.5,26,14,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,,3.0,0000000,United States,2025,103700.0,66150.0
+173023,Electrical and Electronic Engineering Technologists and Technicians,103,2,0.625,110.75,25,3,0,0.0,1.94,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,,3.0,0000000,United States,2025,95130.0,78190.0
+173012,Electrical and Electronics Drafters,75,2,0.625,84.5,22,8,0,0.0,2.67,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,42.54,3.0,0000000,United States,2025,17920.0,76870.0
+173024,Electro-Mechanical and Mechatronics Technologists and Technicians,75,5,1.75,103.75,37,5,0,0.0,6.67,O*NET 30.3 (May 2026),,2.0,0.0,1.0,0.0,43.01,3.0,0000000,United States,2025,15520.0,73900.0
+172051,Civil Engineers,111,5,1.9375,181.25,55,27,0,0.0,4.5,O*NET 30.3 (May 2026),,2.0,0.0,1.0,0.0,100.0,4.0,0000000,United States,2025,367840.0,100840.0
+191021,Biochemists and Biophysicists,72,5,1.4375,78.0,16,4,0,0.0,6.94,O*NET 30.3 (May 2026),,5.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,33830.0,127410.0
+191029,Bioinformatics Scientists,168,21,9.0875,263.0,92,24,0,0.0,12.5,O*NET 30.3 (May 2026),,7.0,0.0,5.0,1.0,100.0,5.0,0000000,United States,2025,55850.0,98920.0
+191031,Conservation Scientists,83,3,0.9375,114.75,37,5,0,0.0,3.61,O*NET 30.3 (May 2026),,3.0,0.0,0.0,0.0,100.0,4.0,0000000,United States,2025,25950.0,73010.0
+192012,Physicists,74,4,1.5,82.25,29,2,0,0.0,5.41,O*NET 30.3 (May 2026),,3.0,0.0,1.0,0.0,100.0,5.0,0000000,United States,2025,20430.0,172250.0
+192031,Chemists,72,3,1.0,77.25,15,3,0,0.0,4.17,O*NET 30.3 (May 2026),,2.0,0.0,1.0,0.0,100.0,4.0,0000000,United States,2025,82770.0,91240.0
+192041,"Environmental Scientists and Specialists, Including Health",116,11,4.025,182.5,74,14,0,0.0,9.48,O*NET 30.3 (May 2026),,4.0,0.0,4.0,0.0,100.0,5.0,0000000,United States,2025,89250.0,82220.0
+192042,"Geoscientists, Except Hydrologists and Geographers",140,4,1.3125,149.25,17,10,0,0.0,2.86,O*NET 30.3 (May 2026),,4.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,23470.0,101920.0
+192043,Hydrologists,154,4,1.4,162.75,15,10,0,0.0,2.6,O*NET 30.3 (May 2026),,3.0,0.0,1.0,0.0,100.0,5.0,0000000,United States,2025,5850.0,96600.0
+192099,Remote Sensing Scientists and Technologists,89,8,3.875,103.5,56,1,0,0.0,8.99,O*NET 30.3 (May 2026),,3.0,0.0,4.0,1.0,96.0,4.0,0000000,United States,2025,22300.0,122570.0
+193022,Survey Researchers,98,7,2.5,108.5,22,10,0,0.0,7.14,O*NET 30.3 (May 2026),,6.0,0.0,1.0,0.0,100.0,5.0,0000000,United States,2025,8290.0,69460.0
+193051,Urban and Regional Planners,77,1,0.5,86.5,24,7,0,0.0,1.3,O*NET 30.3 (May 2026),,0.0,0.0,1.0,0.0,100.0,5.0,0000000,United States,2025,44230.0,89320.0
+194099,Quality Control Analysts,129,9,3.9,172.0,76,16,0,0.0,6.98,O*NET 30.3 (May 2026),,3.0,0.0,3.0,0.0,98.67,3.5,0000000,United States,2025,73910.0,62280.0
+211012,"Educational, Guidance, and Career Counselors and Advisors",76,2,0.75,81.25,13,4,0,0.0,2.63,O*NET 30.3 (May 2026),,1.0,0.0,1.0,0.0,97.5,5.0,0000000,United States,2025,353310.0,64330.0
+231011,Lawyers,126,0,0.0,129.0,10,1,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,754500.0,159670.0
+232011,Paralegals and Legal Assistants,97,0,0.0,103.75,13,7,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,56.53,3.0,0000000,United States,2025,392880.0,62890.0
+173031,Surveying and Mapping Technicians,101,2,0.8125,110.0,20,8,0,0.0,1.98,O*NET 30.3 (May 2026),,1.0,0.0,1.0,0.0,,3.0,0000000,United States,2025,58010.0,54240.0
+252023,"Career/Technical Education Teachers, Middle School",94,9,4.0,111.25,69,0,0,0.0,9.57,O*NET 30.3 (May 2026),,4.0,0.0,4.0,1.0,99.44,4.0,0000000,United States,2025,16870.0,65030.0
+254022,Librarians and Media Collections Specialists,81,2,0.75,89.0,26,3,0,0.0,2.47,O*NET 30.3 (May 2026),,1.0,0.0,1.0,0.0,81.69000000000001,5.0,0000000,United States,2025,133790.0,68270.0
+271014,Special Effects Artists and Animators,130,1,0.3125,146.0,28,18,0,0.0,0.77,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,53.09,4.0,0000000,United States,2025,19970.0,102030.0
+259031,Instructional Coordinators,88,2,1.0,97.0,22,7,0,0.0,2.27,O*NET 30.3 (May 2026),,0.0,0.0,2.0,0.0,100.0,5.0,0000000,United States,2025,227760.0,77440.0
+272012,Producers and Directors,112,4,1.8125,186.25,79,17,0,0.0,3.57,O*NET 30.3 (May 2026),,1.0,0.0,2.0,0.0,100.0,4.0,0000000,United States,2025,143120.0,90360.0
+272041,Music Directors and Composers,86,0,0.0,87.25,5,0,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,76.99000000000001,4.0,0000000,United States,2025,12540.0,73710.0
+273031,Public Relations Specialists,70,0,0.0,81.5,26,10,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,100.0,4.0,0000000,United States,2025,283380.0,74750.0
+271024,Graphic Designers,79,1,0.5,94.25,35,13,0,0.0,1.27,O*NET 30.3 (May 2026),,0.0,0.0,1.0,0.0,75.0,4.0,0000000,United States,2025,197830.0,62960.0
+273042,Technical Writers,71,4,1.8125,84.25,33,10,0,0.0,5.63,O*NET 30.3 (May 2026),,1.0,0.0,3.0,0.0,41.970000000000006,4.0,0000000,United States,2025,45500.0,90390.0
+273043,Writers and Authors,76,0,0.0,103.25,39,9,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,96.95,4.0,0000000,United States,2025,47940.0,76910.0
+291222,"Physicians, Pathologists",102,0,0.0,103.25,5,0,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,11110.0,312400.0
+291141,Registered Nurses,89,2,0.8125,157.75,43,2,0,0.0,2.25,O*NET 30.3 (May 2026),,1.0,0.0,1.0,0.0,100.0,4.0,0000000,United States,2025,3379720.0,97550.0
+291229,Allergists and Immunologists,86,4,1.125,185.0,34,3,0,0.0,4.65,O*NET 30.3 (May 2026),,4.0,0.0,0.0,0.0,100.0,5.0,0000000,United States,2025,342720.0,265930.0
+292011,Medical and Clinical Laboratory Technologists,81,1,0.3125,102.5,26,0,0,0.0,1.23,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,100.0,4.0,0000000,United States,2025,,
+292072,Medical Records Specialists,109,5,2.125,116.75,23,4,0,0.0,4.59,O*NET 30.3 (May 2026),,2.0,0.0,3.0,0.0,,3.0,0000000,United States,2025,194720.0,51140.0
+299021,Health Information Technologists and Medical Registrars,109,5,2.125,115.5,22,2,0,0.0,4.59,O*NET 30.3 (May 2026),,2.0,0.0,3.0,0.0,,3.0,0000000,United States,2025,38100.0,68020.0
+411011,First-Line Supervisors of Retail Sales Workers,107,2,0.625,115.5,32,1,0,0.0,1.87,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,0.42,2.0,0000000,United States,2025,1121800.0,48520.0
+412031,Retail Salespersons,80,0,0.0,86.25,25,0,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,4.01,2.0,0000000,United States,2025,3897860.0,35410.0
+414012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",138,2,0.625,151.5,44,5,0,0.0,1.45,O*NET 30.3 (May 2026),,2.0,0.0,0.0,0.0,33.89,4.0,0000000,United States,2025,1238190.0,72080.0
+419022,Real Estate Sales Agents,95,0,0.0,101.0,14,5,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,9.52,3.0,0000000,United States,2025,193370.0,52830.0
+419031,Sales Engineers,95,6,3.5625,110.5,48,7,0,0.0,6.32,O*NET 30.3 (May 2026),,1.0,0.0,3.0,2.0,82.5,4.0,0000000,United States,2025,51790.0,124900.0
+431011,First-Line Supervisors of Office and Administrative Support Workers,88,1,0.3125,96.75,27,4,0,0.0,1.14,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,46.55,3.0,0000000,United States,2025,1436680.0,69500.0
+433031,"Bookkeeping, Accounting, and Auditing Clerks",118,0,0.0,125.25,19,5,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,18.71,3.0,0000000,United States,2025,1373680.0,50670.0
+434051,Customer Service Representatives,112,0,0.0,120.0,26,3,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,14.22,2.0,0000000,United States,2025,2595750.0,44770.0
+435061,"Production, Planning, and Expediting Clerks",94,1,0.5,100.75,19,4,0,0.0,1.06,O*NET 30.3 (May 2026),,0.0,0.0,1.0,0.0,0.0,2.0,0000000,United States,2025,390160.0,59650.0
+436011,Executive Secretaries and Executive Administrative Assistants,89,0,0.0,100.0,26,9,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,19.849999999999998,3.0,0000000,United States,2025,459910.0,76590.0
+436014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",129,4,1.7125,143.5,48,5,0,0.0,3.1,O*NET 30.3 (May 2026),,1.0,0.0,3.0,0.0,10.98,2.0,0000000,United States,2025,1706790.0,47540.0
+439031,Desktop Publishers,89,1,0.3125,97.25,31,1,0,0.0,1.12,O*NET 30.3 (May 2026),,1.0,0.0,0.0,0.0,38.7,3.0,0000000,United States,2025,3350.0,55290.0
+474011,Construction and Building Inspectors,82,4,1.7625000000000002,104.0,32,12,0,0.0,4.88,O*NET 30.3 (May 2026),,3.0,0.0,1.0,0.0,44.14,3.0,0000000,United States,2025,146720.0,74690.0
+519162,Computer Numerically Controlled Tool Programmers,78,0,0.0,83.25,9,6,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,1.86,2.0,0000000,United States,2025,28500.0,68120.0
+537011,Conveyor Operators and Tenders,7,0,0.0,7.75,3,0,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,0.0,2.0,0000000,United States,2025,22930.0,42420.0
+537081,Refuse and Recyclable Material Collectors,10,0,0.0,10.0,0,0,0,0.0,0.0,O*NET 30.3 (May 2026),,0.0,0.0,0.0,0.0,0.0,2.0,0000000,United States,2025,147240.0,49690.0
