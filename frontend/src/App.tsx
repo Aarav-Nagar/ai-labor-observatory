@@ -59,7 +59,7 @@ function App() {
   const [selectedSoc, setSelectedSoc] = useState("");
 
   useEffect(() => {
-    fetch("/data/summary.json")
+    fetch(`${import.meta.env.BASE_URL}data/summary.json`)
       .then((response) => {
         if (!response.ok) throw new Error("The analytical snapshot could not be loaded.");
         return response.json();

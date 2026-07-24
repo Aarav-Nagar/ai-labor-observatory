@@ -3,6 +3,8 @@
 An evidence-backed, reproducible view of how AI-related software demand intersects with
 occupations, wages, tasks, education, and geography in the United States.
 
+**[Open the live dashboard](https://aarav-nagar.github.io/ai-labor-observatory/)**
+
 This is not another job-search chatbot. It is a small labor-economics data product:
 
 - **Demand:** employer-job-posting-derived hot and in-demand software signals published
