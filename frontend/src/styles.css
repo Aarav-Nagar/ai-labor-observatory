@@ -38,6 +38,7 @@ a {
 
 .hero,
 .panel,
+.explorer,
 .metrics,
 .split-panel,
 .geo-section,
@@ -170,8 +171,90 @@ h1 em {
 }
 
 .panel,
+.explorer,
 .geo-section {
   padding: 110px 42px;
+}
+
+.explorer {
+  background: var(--cream);
+}
+
+.explorer-controls {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr 0.8fr;
+  gap: 28px;
+  align-items: end;
+  margin-bottom: 34px;
+}
+
+.explorer-controls label {
+  display: grid;
+  gap: 10px;
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+input[type="search"] {
+  width: 100%;
+  padding: 14px 0;
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--ink);
+  border-radius: 0;
+  font: inherit;
+}
+
+input[type="range"] {
+  width: 100%;
+  accent-color: var(--orange);
+}
+
+.result-count {
+  margin: 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.explorer-table {
+  border-top: 2px solid var(--ink);
+}
+
+.explorer-header,
+.explorer-row {
+  display: grid;
+  grid-template-columns: 1.6fr repeat(3, 1fr);
+  gap: 20px;
+  align-items: center;
+  min-height: 58px;
+  border-bottom: 1px solid var(--line);
+}
+
+.explorer-header {
+  min-height: 44px;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.explorer-row {
+  font-size: 13px;
+}
+
+.explorer-row > div {
+  display: grid;
+  gap: 4px;
+}
+
+.explorer-row small {
+  color: var(--muted);
 }
 
 .section-heading {
@@ -503,6 +586,7 @@ footer strong {
 @media (max-width: 900px) {
   .hero,
   .panel,
+  .explorer,
   .geo-section {
     padding-left: 22px;
     padding-right: 22px;
@@ -518,6 +602,7 @@ footer strong {
 
   .hero-grid,
   .section-heading,
+  .explorer-controls,
   .methods {
     grid-template-columns: 1fr;
     gap: 32px;
@@ -579,7 +664,15 @@ footer strong {
   }
 
   .geo-header span:last-child,
-  .geo-row span:last-child {
+  .geo-row span:last-child,
+  .explorer-header span:last-child,
+  .explorer-row span:last-child {
     display: none;
+  }
+
+  .explorer-header,
+  .explorer-row {
+    grid-template-columns: 1.2fr 0.7fr 1fr;
+    gap: 12px;
   }
 }

@@ -10,6 +10,17 @@ export interface Occupation {
   signal_occupation_titles: string;
 }
 
+export interface OccupationExplorerRow {
+  soc_code: string;
+  occupation_title: string;
+  ai_intensity: number;
+  ai_skill_share: number;
+  annual_median_wage: number | null;
+  employment: number | null;
+  bachelors_plus_share: number | null;
+  job_zone: number | null;
+}
+
 export interface Mover {
   soc_code: string;
   occupation_title: string;

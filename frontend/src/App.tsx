@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import type { Geography, ObservatorySummary } from "./types";
+import type { Geography, ObservatorySummary, OccupationExplorerRow } from "./types";
 
 const money = new Intl.NumberFormat("en-US", {
   style: "currency",
@@ -13,6 +13,35 @@ function prettyLabel(value: string) {
     .split("_")
     .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
     .join(" ");
+}
+
+function parseNullableNumber(value: string | undefined) {
+  if (!value || value.trim() === "") return null;
+  const number = Number(value);
+  return Number.isFinite(number) ? number : null;
+}
+
+function parseOccupationRows(csv: string): OccupationExplorerRow[] {
+  const [header, ...rows] = csv.trim().split(/\r?\n/);
+  const columns = header.split(",");
+  const index = (name: string) => columns.indexOf(name);
+  const field = (cells: string[], name: string) => cells[index(name)] ?? "";
+
+  return rows.flatMap((row) => {
+    const cells = row.split(",");
+    const aiIntensity = parseNullableNumber(field(cells, "ai_intensity"));
+    if (aiIntensity === null) return [];
+    return [{
+      soc_code: field(cells, "soc_code"),
+      occupation_title: field(cells, "occupation_title"),
+      ai_intensity: aiIntensity,
+      ai_skill_share: parseNullableNumber(field(cells, "ai_skill_share")) ?? 0,
+      annual_median_wage: parseNullableNumber(field(cells, "annual_median_wage")),
+      employment: parseNullableNumber(field(cells, "employment")),
+      bachelors_plus_share: parseNullableNumber(field(cells, "bachelors_plus_share")),
+      job_zone: parseNullableNumber(field(cells, "job_zone")),
+    }];
+  });
 }
 
 function Metric({
@@ -57,6 +86,9 @@ function App() {
   const [data, setData] = useState<ObservatorySummary | null>(null);
   const [error, setError] = useState("");
   const [selectedSoc, setSelectedSoc] = useState("");
+  const [occupationRows, setOccupationRows] = useState<OccupationExplorerRow[]>([]);
+  const [occupationQuery, setOccupationQuery] = useState("");
+  const [minimumIntensity, setMinimumIntensity] = useState(0);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/summary.json`)
@@ -71,10 +103,33 @@ function App() {
       .catch((reason: Error) => setError(reason.message));
   }, []);
 
+  useEffect(() => {
+    fetch(`${import.meta.env.BASE_URL}data/occupation_metrics.csv`)
+      .then((response) => {
+        if (!response.ok) throw new Error("Occupation data could not be loaded.");
+        return response.text();
+      })
+      .then((csv) => setOccupationRows(parseOccupationRows(csv)))
+      .catch(() => setOccupationRows([]));
+  }, []);
+
   const geography = useMemo<Geography[]>(
     () => data?.geography.filter((row) => row.soc_code === selectedSoc) ?? [],
     [data, selectedSoc],
   );
+  const filteredOccupations = useMemo(() => {
+    const query = occupationQuery.trim().toLowerCase();
+    return occupationRows
+      .filter((row) => row.ai_intensity >= minimumIntensity)
+      .filter(
+        (row) =>
+          !query ||
+          row.occupation_title.toLowerCase().includes(query) ||
+          row.soc_code.includes(query),
+      )
+      .sort((a, b) => b.ai_intensity - a.ai_intensity)
+      .slice(0, 12);
+  }, [minimumIntensity, occupationQuery, occupationRows]);
 
   if (error) {
     return (
@@ -110,6 +165,7 @@ function App() {
           </a>
           <div>
             <a href="#occupations">Occupations</a>
+            <a href="#explorer">Explore</a>
             <a href="#wages">Wages</a>
             <a href="#methods">Methods</a>
           </div>
@@ -192,6 +248,45 @@ function App() {
             </article>
           ))}
         </div>
+      </section>
+
+      <section className="explorer" id="explorer">
+        <div className="section-heading compact">
+          <div>
+            <p className="kicker">01B · OCCUPATION EXPLORER</p>
+            <h2>Find the evidence behind a title.</h2>
+          </div>
+          <p>
+            Search the BLS-matched analytical sample by occupation or SOC code. Results are
+            ordered by the documented AI-intensity score, not a prediction of automation risk.
+          </p>
+        </div>
+        <div className="explorer-controls">
+          <label>
+            Search occupation
+            <input type="search" value={occupationQuery} onChange={(event) => setOccupationQuery(event.target.value)} placeholder="e.g. data scientist or 152051" />
+          </label>
+          <label>
+            Minimum AI intensity: {minimumIntensity.toFixed(0)}
+            <input type="range" min="0" max="10" step="1" value={minimumIntensity} onChange={(event) => setMinimumIntensity(Number(event.target.value))} />
+          </label>
+          <p className="result-count">
+            {occupationRows.length > 0 ? `${filteredOccupations.length} shown from ${occupationRows.length} BLS-matched occupations` : "Occupation explorer data unavailable."}
+          </p>
+        </div>
+        {filteredOccupations.length > 0 && (
+          <div className="explorer-table" aria-live="polite">
+            <div className="explorer-header"><span>Occupation</span><span>AI intensity</span><span>Median wage</span><span>Employment</span></div>
+            {filteredOccupations.map((occupation) => (
+              <div className="explorer-row" key={occupation.soc_code}>
+                <div><strong>{occupation.occupation_title}</strong><small>{occupation.soc_code.slice(0, 2)}-{occupation.soc_code.slice(2)}</small></div>
+                <span>{occupation.ai_intensity.toFixed(2)}</span>
+                <span>{occupation.annual_median_wage ? money.format(occupation.annual_median_wage) : "Suppressed"}</span>
+                <span>{occupation.employment ? integer.format(occupation.employment) : "Suppressed"}</span>
+              </div>
+            ))}
+          </div>
+        )}
       </section>
 
       <section className="split-panel" id="wages">
